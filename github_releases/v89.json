@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v89/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14482535,
+      "name": "desktop-release.jar",
+      "size": 43237021
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v89/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14482537,
+      "name": "server-release.jar",
+      "size": 3925728
+    }
+  ],
+  "body": "- Fixed iOS/Android having frozen multiplayer\r\n- Fixed Veins map not having a silicon source\r\n- Fixed inaccurate enemy shoot prediction\r\n- Fixed server crash exploit\r\n- Fixed panes not scrolling with mousewheel [Desktop]\r\n- Fixed incorrect PvP team assignment\r\n- Fixed not being able to tap 'ok' in UI scale changed dialog\r\n- Fixed not being able to play on PvP maps without orange team\r\n- Fixed error message on exiting server after saved map\r\n- Fixed attack map completion displaying low rank\r\n- Possibly fixed Mac version not starting\r\n- Switched to TCP from UDP - experimental\r\n- Added descriptive display when failing to connect due to version mismatch\r\n- Improved smoothness of multiplayer building, rotation and collision\r\n- Improved power node linking",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v89",
+  "id": 19422485,
+  "name": "4.0 Build 89",
+  "prerelease": false,
+  "published_at": "2019-08-21T01:31:32Z",
+  "tag_name": "v89",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v89",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v89"
+}

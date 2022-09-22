@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v135.1/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 61223416,
+      "name": "Mindustry.jar",
+      "size": 102530128
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v135.1/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 61223585,
+      "name": "server-release.jar",
+      "size": 7239461
+    }
+  ],
+  "body": "sdgjkhgjskgdf",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v135.1",
+  "id": 63342801,
+  "name": "7.0 Build 135.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2022-04-01T04:07:14Z",
+  "tag_name": "v135.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v135.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v135.1"
+}

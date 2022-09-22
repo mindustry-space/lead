@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v138/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 76293602,
+      "name": "Mindustry.jar",
+      "size": 71754351
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v138/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 76293750,
+      "name": "server-release.jar",
+      "size": 8993186
+    }
+  ],
+  "body": "- Fixed an exploit allowing logic-controlled units to transfer items with no cooldown\r\n- Fixed objectives edit dialog being broken with UI scaling\r\n- Fixed logic-spawned waves creating ghost units\r\n- Fixed non-hittable units being targeted in certain situations\r\n- Made player list more compact\r\n- Made clicking player on list jump to their position\r\n- Made Neoplasm stay on most liquids instead of disappearing\r\n- Various minor balancing changes\r\n- Changed interplanetary accelerator launch text for Serpulo with some beta clarification\r\n- Added Call.openURI method for servers to share links to players\r\n- Added sounds for most Erekir blocks/units\r\n- Added descriptions for Erekir content\r\n- Added two new campaign maps",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v138",
+  "id": 75670590,
+  "name": "7.0 Build 138 - Alpha",
+  "prerelease": true,
+  "published_at": "2022-08-29T17:49:36Z",
+  "tag_name": "v138",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v138",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v138"
+}

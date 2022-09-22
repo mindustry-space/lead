@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v72/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11922468,
+      "name": "desktop-release.jar",
+      "size": 24073494
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v72/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11922469,
+      "name": "server-release.jar",
+      "size": 3568730
+    }
+  ],
+  "body": "- Fixed most issues reported with the last build",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v72",
+  "id": 16593896,
+  "name": "v4 Build 72 - Beta - Another Hotfix",
+  "prerelease": false,
+  "published_at": "2019-04-06T00:56:09Z",
+  "tag_name": "v72",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v72",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v72"
+}

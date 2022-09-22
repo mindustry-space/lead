@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v110/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 27451780,
+      "name": "Mindustry.jar",
+      "size": 62616412
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v110/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 27451781,
+      "name": "server-release.jar",
+      "size": 8611915
+    }
+  ],
+  "body": "- Added 4 new custom game maps (untested)\r\n- Added new stats to unit info\r\n- Added buttons to clear campaign research+saves\r\n- Added fog weather\r\n- Added weather to some custom game maps\r\n- Added support for weather in JSON mods\r\n- Added better control sync for commanded units\r\n- Added recipe display for reconstructors\r\n- Added titanium fuse ammo\r\n- Made campaign load research from older versions (5.0)\r\n- Logic: Added support for hex/binary number parsing (0b / 0x prefixes)\r\n- Logic: Added support for locating & sensing unlinked buildings from units\r\n- Editor: Improved various filters, added more options - specifying ore generation zones is now possible\r\n- Editor: Added filter for creating path from enemy spawn(s) to core, useful for procedural maps\r\n- Editor: Added support for 'buffered' filters (e.g. distort) in post-generation\r\n- Campaign: Removed dedicated launch button, merged with planet map\r\n- Campaign: Balancing, slightly easier area around ground zero\r\n- Campaign: Added more schematics for bases to use\r\n- Server: Improved text colors\r\n- router.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v110",
+  "id": 32991202,
+  "name": "6.0 Build 110 - Beta",
+  "prerelease": true,
+  "published_at": "2020-10-23T17:47:41Z",
+  "tag_name": "v110",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v110",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v110"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v136.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 71982322,
+      "name": "Mindustry.jar",
+      "size": 70520024
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v136.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 71982325,
+      "name": "server-release.jar",
+      "size": 8869691
+    }
+  ],
+  "body": "- Fixed some menus being cut off in portrait mode [Mobile]\n- Fixed Erekir core units being able to target enemies [Mobile]\n- Fixed Erekir tutorial mentioning \"shift key\" on mobile devices\n- Fixed objective display showing empty dialog box on click\n- Fixed various minor crashes\n- Fixed certain crafters always requiring power even with no input\n- Fixed Erekir sector launch dialog showing copper/lead when Serpulo sector is loaded\n- Fixed unit repair beams still drawing when unit boosts\n- Fixed Arkycite floor applying wet status effect\n- Added hint for controlling unit factory output locations\n- Made mod browser filter out mods that don't have minGameVersion >= 136\n- Disabled resource sharing in campaign\n- Various minor tweaks and improvements to campaign maps",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v136.1",
+  "id": 72282740,
+  "name": "7.0 Build 136.1 - Alpha",
+  "prerelease": true,
+  "published_at": "2022-07-19T02:39:42Z",
+  "tag_name": "v136.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v136.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v136.1"
+}

@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed a crash when shooting with multithreading enabled (Desktop)\r\n- Fixed multiblock breaking not extending (Web)\r\n- Fixed FR language having random invalid characters\r\n- Possible fix for \"Invalid client ID\" error on some devices (Android)\r\n- Made teleporters clear inventory when switching colors\r\n- Added in-game changelog",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v34",
+  "id": 10069295,
+  "name": "3.4 Build 34",
+  "prerelease": false,
+  "published_at": "2018-03-13T17:42:06Z",
+  "tag_name": "v34",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v34",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v34"
+}

@@ -1,0 +1,26 @@
+{
+  "body": "<p>Changelog:</p><ul><li>Fixed upgrades being purchasable regardless of resource costs</li><li>Fixed pixel-imperfect camera movement</li><li>Smoothed camera movement</li><li>Toned down default screen-shake</li><li>Other misc. bugfixes</li><li>Added an Android build</li></ul>",
+  "published_at": "2017-07-05 17:07:33",
+  "title": "1.3",
+  "uploads": [
+    {
+      "date": "05 July 2017 @ 16:58",
+      "name": "mindustry-java-1.3.jar",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "size": "26 MB"
+    },
+    {
+      "date": "05 July 2017 @ 16:58",
+      "name": "mindustry-1.3-android.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/4393/13"
+}

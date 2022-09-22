@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v101/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 16767931,
+      "name": "Mindustry.jar",
+      "size": 44865655
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v101/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 16767932,
+      "name": "server-release.jar",
+      "size": 5585349
+    }
+  ],
+  "body": "- Added various new features for modding - see documentation\n- Added server block state autosync\n- Added support for Thai font\n- Added JS scripting - unstable, not well tested\n- Fixed liquid junction to item bridge crash\n- Fixed launch items not saving\n- Fixed schematics not being importable [iOS]\n- General maintenance bugfixes and translation updates",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v101",
+  "id": 22195299,
+  "name": "5.0 Build 101",
+  "prerelease": false,
+  "published_at": "2019-12-12T23:00:17Z",
+  "tag_name": "v101",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v101",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v101"
+}

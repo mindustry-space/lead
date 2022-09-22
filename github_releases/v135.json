@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v135/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 50319160,
+      "name": "Mindustry.jar",
+      "size": 60093826
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v135/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 50319161,
+      "name": "server-release.jar",
+      "size": 7239461
+    }
+  ],
+  "body": "- Fixed spawnpoint shockwave not killing units\n- Fixed payEnter logic command creating infinite ghost units\n- Fixed modded attributes wiping vanilla attributes\n- Fixed some overdrive projector application inconsistencies\n- Fixed some launch pad export calculation issues\n- Fixed some unloader edge cases\n- Fixed unit sector icons not saving\n- Switched Linux audio backend to PulseAudio - if your sound breaks/gets distorted after this release, please report it\n- Added WorldLabel entity for server-side persistent messages (no documentation yet)",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v135",
+  "id": 54090336,
+  "name": "7.0 Build 135 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-11-25T17:15:39Z",
+  "tag_name": "v135",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v135",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v135"
+}

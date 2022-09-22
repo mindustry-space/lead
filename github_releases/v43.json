@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed a multiplayer connect crash\r\n- Fixed many various other crashes\r\n- Fixed non-mobile recipes showing up on mobile devices\r\n- Fixed core not being present in editor menu\r\n- Fixed players being sent a generic disconnect instead of a kick message\r\n- Fixed random lines being clipped when near edge of screen\r\n- Fixed players not being removed on disconnect on servers\r\n- Made servers disallow custom clients by default",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v43",
+  "id": 11768893,
+  "name": "4.0 Build 43 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-07-04T00:04:09Z",
+  "tag_name": "v43",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v43",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v43"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v81/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13471735,
+      "name": "desktop-release.jar",
+      "size": 23018367
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v81/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13471738,
+      "name": "server-release.jar",
+      "size": 3715014
+    }
+  ],
+  "body": "- Fixed sprites for boulders, conduits and some other miscellaneous blocks\r\n- Fixed spirit drone factory appearing twice in tech tree\r\n- Fixed some issues with drone AI\r\n- Improved icons\r\n- Made buildings destroyed during construction get automatically canceled\r\n- Improved salvo range and reload\r\n- Improved repair point effectiveness\r\n- Added circle around enemy spawnpoints\r\n- Added additional options to scatter filter\r\n- Added \"default ores\" shortcut button in editor filters\r\n- Added blend filter for implementing block transitions\r\n- Added two new custom game maps\r\n- Added logo to replace startup black screen [Not functional on all devices, temporary]\r\n- Added button to move server to top on list\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v81",
+  "id": 18311427,
+  "name": "v4 Build 81 - Beta",
+  "prerelease": false,
+  "published_at": "2019-06-29T17:53:12Z",
+  "tag_name": "v81",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v81",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v81"
+}

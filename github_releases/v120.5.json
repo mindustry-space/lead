@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.5/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29200487,
+      "name": "Mindustry.jar",
+      "size": 72288616
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.5/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29200488,
+      "name": "server-release.jar",
+      "size": 9052302
+    }
+  ],
+  "body": "- Fixed certain sectors having infinite waves in very specific situations\n- Fixed various crashes\n- Fixed community servers not displaying on Linux\n- Fixed some logic UI bugs\n- Fixed Distort filter not working in map post-generation\n- Fixed clients in multiplayer not getting item unlocks\n- Fixed enemy AI blocking ground unit paths in some circumstances\n- Made night in campaign slightly less dark",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120.5",
+  "id": 34885833,
+  "name": "6.0 Build 120.5 ",
+  "prerelease": false,
+  "published_at": "2020-12-05T23:16:34Z",
+  "tag_name": "v120.5",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120.5",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120.5"
+}

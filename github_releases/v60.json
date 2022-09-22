@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v60/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9769779,
+      "name": "desktop-release.jar",
+      "size": 18215064
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v60/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9769780,
+      "name": "server-release.jar",
+      "size": 8976756
+    }
+  ],
+  "body": "This one is going to be a bit more rushed than usual.\r\n\r\n- Fixed most crashes and bugs simply by removing multithreading (I hope)\r\n- Fixed shield shader not working on some devices\r\n- Fixed many various crashes\r\n- Fixed sector (-2, 0) ending in immediate game-over\r\n- Fixed network errors not being displayed correctly\r\n- Fixed blocks being deconstructed turning into neutral-team blocks\r\n- Fixed units sometimes jumping across map randomly\r\n- Fixed power system being unpredictable and terrible\r\n- Fixed enemies spawning outside map\r\n- Fixed servers not syncing enemy count to clients\r\n- Slowed down unloader block\r\n- New placement menu\r\n- New language: Japanese, added by beito123 (I could make a joke about anime here, but I won't)\r\n- Internal changes with encoding that may fix cyrillic nicknames\r\n- Added tooltips of hovered blocks to the placement menu\r\n- Added names of items and liquids to placement menu and unlock menu\r\n- Added local configuration folders [Server]\r\n- Removed unlock system restrictions\r\n- Improved lake generation",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v60",
+  "id": 14085866,
+  "name": "4.0 Build 60 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-11-19T21:39:48Z",
+  "tag_name": "v60",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v60",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v60"
+}

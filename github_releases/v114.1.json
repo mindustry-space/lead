@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v114.1/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 28393029,
+      "name": "Mindustry.jar",
+      "size": 71798310
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v114.1/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 28393034,
+      "name": "server-release.jar",
+      "size": 8754581
+    }
+  ],
+  "body": "- Fixed file chooser crash [Android]\r\n- Fixed time stopping after sector capture\r\n- Moved Ruinous Shores map to more approppriate location",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v114.1",
+  "id": 34031795,
+  "name": "6.0 Build 114.1 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-17T00:56:22Z",
+  "tag_name": "v114.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v114.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v114.1"
+}

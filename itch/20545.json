@@ -1,0 +1,58 @@
+{
+  "body": "<p></p>\r\n<p><em>Keep in mind this release is *very* unstable! Save often, and expect major bugs.</em></p>\r\n<ul><li><span>Added multiplayer (you can stop asking now!)</span></li><li><span>Supports LAN play, over the internet and cross-platform with the upcoming PC edition</span></li><li><span>Added ores to map editor</span></li><li><span>Possible controller support (completely untested)</span></li><li><span>Changed smelter system to use fuel and have a maximum speed/capacity</span></li><li><span>New save system, import and export saves to local storage</span></li><li><span>Added autosave</span></li><li><span>Changed flak turret projectiles and speed</span></li><li><span>Balancing of titanium and coal drills to be slower and more expensive, to slow down late-game progression</span></li><li><span>Fixed bug with stacking conveyors and tunnels/junctions not transporting directly to the core</span></li><li><span>Optimized pathfinding to be ~3x faster and use less memory</span></li><li><span>Translation support (incomplete, full translations coming soon!)</span></li><li><span>Teleporters now use power and have a better UI</span></li><li><span>Sorters also have a new UI</span></li><li><span>Added a sand resource (currently unused and unobtainable, but is displayed in the sorter)</span></li><li>Re-made all player weapons to be more varied and interesting</li><li>Removed upgrade menu and added the <em>weapon factory</em> block</li><li>Increased base player health</li><li>Discord integration: Wave, map and player count are now displayed in Discord while playing Mindustry</li><li>Proper <strong>Mac</strong> and&#xa0;<strong>Windows32</strong> support: not well tested, please report any problems!</li></ul>",
+  "published_at": "2018-01-10 16:42:39",
+  "title": "3.3 Unstable Beta 1-25",
+  "uploads": [
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-linux64-3.3-beta-25.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-windows64-3.3-beta-25.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "49 MB"
+    },
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-server-3.3-beta-25.jar",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "size": "20 MB"
+    },
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-windows32-3.3-beta-25.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "54 MB"
+    },
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-android-3.3-beta-25.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "19 MB"
+    },
+    {
+      "date": "19 February 2018 @ 22:09",
+      "name": "Mindustry-mac-3.3-beta-25.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "50 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/20545/33-unstable-beta-1-25"
+}

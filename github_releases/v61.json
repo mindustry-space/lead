@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v61/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9844515,
+      "name": "desktop-release.jar",
+      "size": 18215885
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v61/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9844516,
+      "name": "server-release.jar",
+      "size": 8977785
+    }
+  ],
+  "body": "Switching to a new version format this release. \r\n\r\n- Fixed fillitems command causing a crash [Server]\r\n- Fixed some crashes\r\n- Fixed some character encoding issues\r\n- Fixed a mining exploit (here we go again)\r\n- Fixed cryofluid mixers sometimes not accepting water\r\n- Fixed build menu occasionally getting stuck while toggling\r\n- Fixed items not appearing in lists of requirements in descriptions\r\n- Increased mass driver range, decreased cost\r\n- Increased phase conveyor range, decreased power use\r\n- Removed junction item 'voiding'\r\n- Removed default 'player' name, players must now pick a name before joining a server\r\n- Nerfed arc turret\r\n- Added section for optional items or liquids in block descriptions [incomplete]\r\n- Added all contributors to 'credits' dialog",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v61",
+  "id": 14169280,
+  "name": "v4 Build 61 - Alpha",
+  "prerelease": false,
+  "published_at": "2018-11-25T01:26:13Z",
+  "tag_name": "v61",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v61",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v61"
+}

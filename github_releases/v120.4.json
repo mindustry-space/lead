@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.4/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29160103,
+      "name": "Mindustry.jar",
+      "size": 72287816
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.4/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29160106,
+      "name": "server-release.jar",
+      "size": 9051786
+    }
+  ],
+  "body": "- Leaving sectors while guardians are present is now heavily penalized\n- Made community servers sort by ping\n- Changed \"global items\" to \"total items\"\n- Added hint about core item incineration\n- Made sector landing zones display on map when visible but not unlocked\n- Disabled PulseAudio backend, now using ALSA - this fixes a common bug, but may break sound on certain systems [Linux]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120.4",
+  "id": 34839271,
+  "name": "6.0 Build 120.4 ",
+  "prerelease": false,
+  "published_at": "2020-12-04T17:38:39Z",
+  "tag_name": "v120.4",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120.4",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120.4"
+}

@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed many various sound-related bugs, such as music playing after application exit",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v113.1",
+  "id": 33819553,
+  "name": "6.0 Build 113.1 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-11T18:57:21Z",
+  "tag_name": "v113.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v113.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v113.1"
+}

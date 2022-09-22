@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v83/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13976916,
+      "name": "desktop-release.jar",
+      "size": 21631488
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v83/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13976918,
+      "name": "server-release.jar",
+      "size": 4067666
+    }
+  ],
+  "body": "Testing a new deployment option this build. The Windows package is now significantly smaller, <20MB as opposed to 60MB. This may or may not completely break everything, so let me know if you have issues launching it. \r\n\r\n- Fixed Draug drones being idiots\r\n- Fixed some major map loading bugs\r\n- Added/fixed descriptions for nearly everything\r\n- Added new maps for custom games\r\n- Added icons for displaying allowed gamemodes in maps\r\n- Added map load generation filters\r\n- Added ore generation for all new maps\r\n- Added map symmetry filter\r\n- Added UI scale option\r\n- Added bloom option\r\n- Added new background to zone selection\r\n- Added pan limit in tech tree/zone view\r\n- Removed quit button to fit application guidelines [iOS]\r\n- Improved map generation dialog\r\n- Improved filter options\r\n- New SDL-based desktop backend: may fix some bugs/improve game feel [Windows]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v83",
+  "id": 18934770,
+  "name": "v4 Build 83 - Beta",
+  "prerelease": false,
+  "published_at": "2019-07-29T17:10:42Z",
+  "tag_name": "v83",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v83",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v83"
+}

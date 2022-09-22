@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v94/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 14976609,
+      "name": "Mindustry.jar",
+      "size": 42843011
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v94/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14976610,
+      "name": "server-release.jar",
+      "size": 4035155
+    }
+  ],
+  "body": "- Fixed tutorial displaying Desktop text on Android\n- Fixed common crash related to status effects\n- Fixed launch pads launching entire core contents\n- Fixed new maps overwriting old ones without warning\n- Fixed phase conveyors operating on near-0 power\n- Fixed incorrect message dialog layout\n- Fixed some crashes\n- Reverted removal of router passback",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v94",
+  "id": 20063202,
+  "name": "4.0 Build 94",
+  "prerelease": false,
+  "published_at": "2019-09-17T23:41:29Z",
+  "tag_name": "v94",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v94",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v94"
+}

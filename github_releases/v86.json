@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v86/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14388100,
+      "name": "desktop-release.jar",
+      "size": 43376393
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v86/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14388102,
+      "name": "server-release.jar",
+      "size": 4240566
+    }
+  ],
+  "body": "*Time for a midnight release.*\r\n\r\n- Migrated audio backend from SDL_Mixer to OpenAL [Windows]\r\n- Possible fixes for startup crashes [Windows]\r\n- Fixed power nodes making redundant connections in multiplayer\r\n- Fixed audio loops not stopping after game quit\r\n- Fixed some campaign maps\r\n- Slight sound improvements\r\n- Added Discord link to main menu [Mobile]\r\n- Various other bugfixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v86",
+  "id": 19303810,
+  "name": "4.0 Build 86 - RC 2",
+  "prerelease": false,
+  "published_at": "2019-08-15T04:14:10Z",
+  "tag_name": "v86",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v86",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v86"
+}

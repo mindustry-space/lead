@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v125.1/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 32333637,
+      "name": "server-release.jar",
+      "size": 7213052
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v125.1/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 32333639,
+      "name": "Mindustry.jar",
+      "size": 72111057
+    }
+  ],
+  "body": "This is a minor update that reduces building splash damage for certain projectiles and fixes various mods issues.\r\nWhile build 125 servers should be compatible with 125.1 clients, updating is still recommended.\r\n\r\n- Fixed player health bar glitching out at negative health\r\n- Fixed large power nodes sometimes not connecting to placed blocks\r\n- Made unit payloads draw with correct cell colors\r\n- Made all mods automatically get disabled upon client startup crash - can be disabled in settings\r\n- Decreased impact reactor explosion radius\r\n- Decreased projectile building splash damage for smaller radii\r\n- Decreased splash damage radius for many various projectiles\r\n- Logic: Added tooltips for draw operations\r\n- Logic: Made invalid sensors for units return `null`\r\n- Logic: Added tooltip support for mobile, accessible with long-press\r\n- Mods: Stricter null checks for json mod objects\r\n- Mods: Added support for `abilities:` and `requirements:` in JSON unit definitions\r\n- Mods: Added support for `DrawBlock` parameters in JSON\r\n- Mods: Added support for FQCNs and modded class types in JSON",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v125.1",
+  "id": 38341684,
+  "name": "6.0 Build 125.1 ",
+  "prerelease": false,
+  "published_at": "2021-02-19T23:40:14Z",
+  "tag_name": "v125.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v125.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v125.1"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v112/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 27863824,
+      "name": "Mindustry.jar",
+      "size": 62747316
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v112/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 27863825,
+      "name": "server-release.jar",
+      "size": 8627548
+    }
+  ],
+  "body": "- Added basic descriptions & details to new blocks/units\r\n- Balancing\r\n- Made higher tier ground support units heal structures with projectiles/lasers [Contributed by @genNAowl]\r\n- Improved casing ejection effects in turrets/units\r\n- Logic: Added draw sub-instruction to render an icon of an item/unit/block\r\n- Campaign: Reduced research costs\r\n- Campaign: Added info indicating maximum simulated waves survived\r\n- Campaign: Fixed many issues related to base attack simulations\r\n- Campaign: Less extreme waves\r\n- Campaign: Slightly easier bosses\r\n- Campaign: Fixed some missing blocks in certain preset maps\r\n- Many other small tweaks and fixes that I don't want to list right now",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v112",
+  "id": 33378449,
+  "name": "6.0 Build 112 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-02T23:26:46Z",
+  "tag_name": "v112",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v112",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v112"
+}

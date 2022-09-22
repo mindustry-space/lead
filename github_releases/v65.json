@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v65/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11647993,
+      "name": "desktop-release.jar",
+      "size": 21333153
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v65/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11647994,
+      "name": "server-release.jar",
+      "size": 3541348
+    }
+  ],
+  "body": "Disclaimer: this release was made at 1AM. Something is definitely very broken.\r\n\r\n- Fixed many various bugs, including the infamous ball of light, random death and power bugs\r\n- Maybe fixed the flipped menu bug but I'm really not sure anymore\r\n- Removed impact0079 map. Yes, it was bad.\r\n- Added custom wave editor-- needs testing! [Editor]\r\n- Added generate/filter dialog [Editor]\r\n- Added scatter AA turret (again)\r\n- Added scorch anti-ground turret (...again)\r\n- Added mandatory tutorial for placing things in lines because people don't seem to want to read anything unless I force them to [Mobile]\r\n- Added map reload command [Server]\r\n- Added antialiasing setting [Desktop]\r\n- Added back sand, grass blocks\r\n- Added many other new blocks, more to come\r\n- Added animated water setting, disabled by default on mobile\r\n- Added enemy indicators (again)\r\n- Added diagonal conveyor/block placement (hold ctrl on desktop, check game settings for mobile)\r\n- Added capacity bars to blocks that were missing them (bridges, mass drivers...)\r\n- Added new ore system, allowing ores to be placed on any block\r\n- Made zoom level be less restrained\r\n- New map format for much smaller map filesizes, should convert old maps without any issues\r\n- Removed base zone costs, now only starting items are factored in\r\n- Reduced all tech tree costs more than 3x\r\n- Many various tweaks to zone maps and waves\r\n\r\n\r\nKnown issues:\r\n- On Android, locking the screen and returning to the game sometimes makes all machine stop. Of course, this doesn't occur on any of my devices... so fixing it is problematic.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v65",
+  "id": 16249637,
+  "name": "v4 Build 65 - Beta",
+  "prerelease": false,
+  "published_at": "2019-03-21T04:54:07Z",
+  "tag_name": "v65",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v65",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v65"
+}

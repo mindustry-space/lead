@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>Fixed many small typos and errors in the tutorial (left -&gt; right)</li><li>Added section on pumps and extractors to the tutorial</li><li>Increased coal generation amount slightly</li><li>Decreased coal extractor time and liquid demand very slightly</li><li>Improved water speed in conduits</li><li>Nerfed bomber enemy 20%</li><li>Increased wave time from 30 to 40 on Normal (60-&gt;80 on Easy, 15-&gt;20 on Hard)</li><li>Made camera smoothing toggle-able (are you happy now, jacob?)</li></ul>",
+  "published_at": "2017-10-17 19:04:48",
+  "title": "2.4",
+  "uploads": [
+    {
+      "date": "17 October 2017 @ 18:33",
+      "name": "Mindustry-mac-2.4.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "17 October 2017 @ 18:33",
+      "name": "Mindustry-linux64-2.4.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "17 October 2017 @ 18:33",
+      "name": "Mindustry-windows64-2.4.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "17 October 2017 @ 18:55",
+      "name": "Mindustry-android-2.4-.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/12705/24"
+}

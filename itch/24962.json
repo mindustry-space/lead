@@ -1,0 +1,58 @@
+{
+  "body": "<p>- Added multiplayer: supports LAN and WAN play, cross-platform with PC or web version. PC and Android can host, but HTML5 cannot<br>- Added dedicated server for multiplayer. Does not come with a GUI, and requires Java to run.<br>- Added ores to map editor<br>- Added Discord integration [PC]<br>- Added Windows32 version<br>- Added weapon factory block to produce mech weapons [PC]<br>- Complete weapon rework [PC]<br>- Added Xbox controller support [PC]<br>- Changed smelter system to use fuel and have a maximum speed/capacity<br>- New save system, import and export saves to local storage<br>- Added autosave<br>- Changed flak turret projectiles and speed<br>- Balancing of titanium and coal drills to be slower and more expensive, to slow down late-game progression<br>- Optimized pathfinding to be ~3x faster and use less memory<br>- Translation support: added many different languages, including Korean and Russian<br>- Teleporters now use power and have a better UI<br>- Sorters also have a new UI<br>- Added a sand resource (currently unused and unobtainable, but is displayed in the sorter)<br>- Added 2 new difficulties with more aggresive AI<br>- Added 2 new enemy tiers<br>- Made enemies target different structures depending on difficulty<br>- Improved crucible/smelter descriptions<br>- Made conduit and power blocks replaceable<br>- Tinted iron red to stand out more<br>- Added saving to HTML5 version<br>- Moved difficulty to level select menu<br>- Edited tutorial to cover tunnels<br>- Changed player death system on multiplayer to be more accurate of player state<br>- Added version check for multiplayer<br>- New application icon (PC)<br>- Decreased memory usage<br>- Balanced repair turrets to repair at a constant rate for all blocks<br>- Added &apos;next wave&apos; button for waves<br>- Added colored outlines around players<br>- Added option to remove ore generation for maps<br>- Removed editor panning lock<br>- Changed weapon sprites to fit with player in-game<br>- Tripled and smoothed liquid speed: liquid routers should be more viable now<br>- Added fullscreen button [PC]<br>- Added spawnpoint indicator when placing<br>- Made spawnpoint unobstructable (solid blocks cannot be placed on it)<br>- Buffed all weapons and increased their cost<br>- Possible fix for &apos;chat not opening&apos; bug<br>- Made difficulty display for saves<br>- Possible fixes to junction item disappearance and 1-enemy bugs<br>- Added &apos;block info&apos; tool: ctrl-click a block to see its description<br>- Changed update loop to no longer slow down at &lt;20 FPS<br>- Made sorters move items instantly<br>- Changed junctions/tunnels to output items with a delay instead of sequentially<br>- Changed fluxpumps and fluxconduits sprites slightly<br>- Changed liquid junctions to be chain-able<br>- Added in-game display of version<br>- Added multithreading option [in graphics]: may be unstable<br>- Added background block borders for low zoom levels on large screens</p>\r\n<p>- Fixed some cases where crash reports would not be displayed<br>- Fixed bug with improper editor undo<br>- Fixed save error message when quitting<br>- Fixed a crash occurring with 16- saves<br>- Fixed waves spawning few enemies sometimes<br>- Fixed enemies going off-map<br>- Fixed many small bugs with pause menu re-appearing when it shouldn&apos;t<br>- Fixed many key interference bugs [HTML5]<br>- Fixed crash on alt-tab on Windows<br>- Fixed waves sometimes triggering on save load<br>- Fixed waves carrying over multiple saves<br>- Fixed conveyors stacking at low FPS<br>- Fixed place menu being misaligned on certain devices<br>- Fixed some tutorial typos<br>- Fixed bug where saving multiple maps in editor would overwrite old maps<br>- Fixed lasers transfering faster with high FPS<br>- Fixed liquid transferring slower at low FPS<br>- Fixed glitchy zoom at low FPS<br>- Fixed 32-bit Windows version failing to start due to Discord integration<br>- Fixed Mac version failing to start</p>",
+  "published_at": "2018-02-21 20:49:39",
+  "title": "3.3",
+  "uploads": [
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-server-3.3-release-27.jar",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "size": "20 MB"
+    },
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-android-3.3-release-27.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "19 MB"
+    },
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-mac-3.3-release-27.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-windows32-3.3-release-27.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "54 MB"
+    },
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-linux64-3.3-release-27.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "21 February 2018 @ 20:25",
+      "name": "Mindustry-windows64-3.3-release-27.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "49 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/24962/33"
+}

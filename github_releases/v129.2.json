@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129.2/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 41772565,
+      "name": "Mindustry.jar",
+      "size": 66054068
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129.2/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 41772566,
+      "name": "server-release.jar",
+      "size": 7090554
+    }
+  ],
+  "body": "- Fixed a memory leak that occurs when a team has no repair units\n- Fixed logic display removal memory leak\n- Fixed a missing shared library error on startup [Linux]\n- Fixed borderless windowed setting cutting off edge of screen [Windows]\n- Fixed piercing bullets hitting targets multiple times... again\n- Fixed logic-controlled naval units not rotating when moving\n- Fixed Workshop not initializing when invalid subscribed content is found [Steam]\n- Fixed unit mining beams disappearing when unit is off-screen\n- Added icons for crux/sharded/derelict teams - currently used in very few places\n- Added mod import progress bar\n- Added automatic team region generation for modded blocks\n- Added import/export lines & additional info for sectors\n- Improved block color palettes for PvP teams\n- Disabled non-functional crash report sending\n- Removed liquid spill \"generation\" tracking; improves puddle deposition in subtle ways\n- Changed \"borderless windowed\" setting to \"borderless fullscreen\" [Windows]\n- Messed around with the borderless & exclusive fullscreen modes, might fix something but the behavior varies so much between devices I really don't know [Windows]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v129.2",
+  "id": 47327985,
+  "name": "7.0 Build 129.2 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-08-04T23:37:46Z",
+  "tag_name": "v129.2",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v129.2",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v129.2"
+}

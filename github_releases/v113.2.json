@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v113.2/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 28211923,
+      "name": "Mindustry.jar",
+      "size": 71902245
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v113.2/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 28211926,
+      "name": "server-release.jar",
+      "size": 8680566
+    }
+  ],
+  "body": "- Fixed server weather-related crash\r\n- Fixed music not loading on certain systems\r\n- Added sounds for quad unit",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v113.2",
+  "id": 33827851,
+  "name": "6.0 Build 113.2 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-11T22:21:27Z",
+  "tag_name": "v113.2",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v113.2",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v113.2"
+}

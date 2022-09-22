@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v134.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 48354575,
+      "name": "Mindustry.jar",
+      "size": 60004285
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v134.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 48354578,
+      "name": "server-release.jar",
+      "size": 7230249
+    }
+  ],
+  "body": "- Fixed block pickup on servers not removing block clientside\n- Fixed certain blocks rendering/updating incorrectly on payload conveyors\n- Fixed shoot effects not following units\n- Fixed a turret select crash\n- Fixed disabled mods appearing in crash logs\n- Added unit build requirements to stats\n- Unloaders: Fixed outputs with equal weight not being alternated\n- Modding: Added deprecated ChatFragment method so certain mods don't crash\n- Modding: Added Weapon#layerOffset\n- Modding: Added support for reading JSON environment flags as string arrays",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v134.1",
+  "id": 52448988,
+  "name": "7.0 Build 134.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-11-01T13:54:38Z",
+  "tag_name": "v134.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v134.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v134.1"
+}

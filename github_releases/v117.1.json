@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v117.1/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28767921,
+      "name": "Mindustry.jar",
+      "size": 72219826
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v117.1/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28767930,
+      "name": "server-release.jar",
+      "size": 9036829
+    }
+  ],
+  "body": "- Fixed broken blocks increasing exponentially, leading to runaway memory usage/lag\r\n- Fixed incorrect planet dialog layout on certain devices",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v117.1",
+  "id": 34420884,
+  "name": "6.0 Build 117.1 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-25T15:22:47Z",
+  "tag_name": "v117.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v117.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v117.1"
+}

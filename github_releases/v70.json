@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v70/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11900556,
+      "name": "desktop-release.jar",
+      "size": 24076572
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v70/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11900557,
+      "name": "server-release.jar",
+      "size": 3566326
+    }
+  ],
+  "body": "- Fixed drills not prioritizing correct items\r\n- Fixed Impact Reactor displaying fluctuating and incorrect power values\r\n- Fixed unplaceable blocks showing up as unbreakable schematics on servers\r\n- Fixed kick messages and map author messages displaying as a garbled mess [Server]\r\n- Fixed player teams being reset to blue after map reset in PvP\r\n- \"\"Fixed\"\" ground units spinning around\r\n- \"\"\"Fixed\"\"\" a \"\"\"\"\"\"bug\"\"\"\"\" where the entire game would do very specific things and flash very specific colors when you opened a very specific menu under very specific conditions that were introduced on a very specific day\r\n- Absolutely did not fix the flipped wave button bug\r\n- Optimized all crafter block item and liquid processing\r\n- Optimized unit collisions\r\n- Implemented proper damage propagation - walls now contain explosions\r\n- Buffed Differential Generator, Impact Reactor, Batteries, Mender\r\n- PvP balancing: cheaper and more powerful units, weaker players, higher spawn cap\r\n- Shuffled around tech tree\r\n- Better stats for all blocks in general\r\n- Made launch button be more flashy and obnoxious\r\n- Made back button hide the application when in main menu [Android]\r\n- Added stats for item consumption speed, all inputs and output for crafters\r\n- Added minimap (prepare for the flipping)\r\n- Added full-screen map view\r\n- Added pixelation option (yes, stop bothering me about it now)\r\n- Added new rule modifiers\r\n- Added option for shield shaders, disabled by default on mobile\r\n- Added full map screenshot button (again) [Desktop]\r\n- Removed microtransaction permission and donations dialog\r\n- Moved donations directly to itch.io\r\n- The great FPS counter migration continues",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v70",
+  "id": 16569554,
+  "name": "v4 Build 70 - Beta",
+  "prerelease": false,
+  "published_at": "2019-04-04T23:44:16Z",
+  "tag_name": "v70",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v70",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v70"
+}

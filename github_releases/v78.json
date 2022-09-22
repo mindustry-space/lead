@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v78/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13089187,
+      "name": "desktop-release.jar",
+      "size": 23054990
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v78/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13089188,
+      "name": "server-release.jar",
+      "size": 3678656
+    }
+  ],
+  "body": "- Fixed crash on loading older, converted maps\r\n- Fixed server not applying gamemode\r\n- Fixed building cancel button not disappearing\r\n- Fixed bridge animation not playing while in editor\r\n- Fixed editor not saving or loading waves\r\n- Fixed backup save loading causing a crash\r\n- Fixed zone maps having incorrectly facing blocks [Submitted by Dexapnow]\r\n- Fixed crash on giving items to sorter/overflow gate\r\n- Updated language bundles\r\n- Changed contributor list to be pre-cached and contain *all* contributors\r\n- Reverted buffering for overflow gates and sorters\r\n- Sorter with similar sort items now cannot be changed for lengths of 3 or more\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v78",
+  "id": 17861827,
+  "name": "v4 Build 78 - Beta - Hotfix",
+  "prerelease": false,
+  "published_at": "2019-06-07T20:27:20Z",
+  "tag_name": "v78",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v78",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v78"
+}

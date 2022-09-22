@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.4/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29595478,
+      "name": "Mindustry.jar",
+      "size": 72448248
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.4/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29595479,
+      "name": "server-release.jar",
+      "size": 9067261
+    }
+  ],
+  "body": "- Fixed flying unit AI\n- Made conduits/conveyors upgrades follow paths (Contributed by @Slava0135)",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v121.4",
+  "id": 35310440,
+  "name": "6.0 Build 121.4 ",
+  "prerelease": false,
+  "published_at": "2020-12-15T19:20:04Z",
+  "tag_name": "v121.4",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v121.4",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v121.4"
+}

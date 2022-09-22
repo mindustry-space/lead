@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v124/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 31766361,
+      "name": "Mindustry.jar",
+      "size": 72072224
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v124/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 31766363,
+      "name": "server-release.jar",
+      "size": 9176629
+    }
+  ],
+  "body": "- Fixed a black screen appearing after switching applications in certain situations [iOS]\n- Fixed notch covering up left/right UI elements after rotation [iOS]\n- Fixed logic blocks resetting state on map load or connection changes\n- Fixed \"#\" in any logic string breaking instructions\n- Fixed crawlers not exploding next to cores\n- Fixed certain status effect combinations not triggering damage\n- Fixed waves being infinitely skippable when game is paused\n- Fixed constructed blocks sometimes having low health on servers'\n- Fixed enemy core items not syncing\n- Fixed insect units not being able to walk over solid blocks on space floors\n- Re-added bloom option [iOS]\n- Buffed Fortress, nerfed Scepter, buffed Reign, buffed Vela\n- Made vaults/containers able to replace conveyors\n- Made Surge Alloy discharge lightning when destroyed in containers (Contributed by @sk7725)\n- Made player stop shooting when a controlled suicide unit is killed (prevents Crawler chain-deaths)\n- Made team colors for relevant blocks display during placement (Contibuted by @Quezler)\n- Improved liquid bridge throughput\n- Improved power network removal performance\n- Added list of content to mod info dialog\n- Added icons to mod browser\n- Added support for Jar mod import to mod browser\n- Added re-import button to mod info - only works for newly imported mods\n- Added \"Repo\" button to mod info\n- Improved mod browser layout on wider screens\n- Made mod importer/browser use the default Github branch for downloads. The \"6.0\" branch is no longer checked first - make sure your default branch is set up correctly!",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v124",
+  "id": 37643290,
+  "name": "6.0 Build 124 ",
+  "prerelease": false,
+  "published_at": "2021-02-07T18:38:03Z",
+  "tag_name": "v124",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v124",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v124"
+}

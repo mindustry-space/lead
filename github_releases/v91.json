@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v91/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 14560972,
+      "name": "Mindustry.jar",
+      "size": 41618775
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v91/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14560973,
+      "name": "server-release.jar",
+      "size": 3939064
+    }
+  ],
+  "body": "- Fixed black tiles appearing on some devices with low VRAM\n- Fixed some crashes\n- Fixed missing DLL error on Windows\n- Fixed Windows32 version not starting in some conditions\n- Reverted back to old networking system\n- Re-added command center\n- Made unit pads available in non-attack modes\n- Added fullscreen button",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v91",
+  "id": 19520057,
+  "name": "4.0 Build 91",
+  "prerelease": false,
+  "published_at": "2019-08-25T18:48:03Z",
+  "tag_name": "v91",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v91",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v91"
+}

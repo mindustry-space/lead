@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v100/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 16274516,
+      "name": "Mindustry.jar",
+      "size": 43974484
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v100/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 16274518,
+      "name": "server-release.jar",
+      "size": 4250447
+    }
+  ],
+  "body": "- Added experimental lighting system - can be enabled in custom game rules\n- Added power diode block (Contributed by Quezler)\n- Added plated conduit block (Contributed by Quezler)\n- Added hotkeys for selecting blocks (Contributed by joshuaptfan) [Desktop]\n- Added light block for dark maps only\n- Added customizable global rules [Server]\n- Added commands to specify next map in rotation [Server]\n- Improved pulse conduit speed (Contributed by Quezler)\n- Improved building priority\n- New permissive mod parsing format (HJSON)\n- Fixed files not importing and/or crashing game [iOS]\n- Fixed a few incorrect consumption displays in blocks\n- Fixed some modding issues related to sets and formatting\n- Fixed 'underwater' ores in editor\n- Fixed incorrect bridge linking in certain conditions\n- Fixed inverted sorter chains\n- Fixed black terrain after schematic construction [Android]\n- Fixed many other UI and small in-game bugs",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v100",
+  "id": 21605590,
+  "name": "5.0 Build 100",
+  "prerelease": false,
+  "published_at": "2019-11-20T01:13:25Z",
+  "tag_name": "v100",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v100",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v100"
+}

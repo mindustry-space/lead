@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v92/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 14680340,
+      "name": "Mindustry.jar",
+      "size": 41591104
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v92/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14680341,
+      "name": "server-release.jar",
+      "size": 3975772
+    }
+  ],
+  "body": "- Fixed structure blocks being mirrored in maps\n- Fixed mend projector visual offset\n- Fixed units not moving after game quit and server join [Android]\n- Changed deconstruction to be just as fast as construction (2x -> 1x speed)\n- Made Tar Fields map more difficult\n- Added loading screen\n- Added cached map preview/data, decreasing load times in some cases\n- Added save previews - visible once a save is loaded/saved to\n- Added automatic saves when custom game is started\n- Added server plugins (alpha) - see https://github.com/Anuken/ExamplePlugin for info on how to get started making them\n- Added server commands (do /help for details)\n- Added votekick command - /votekick - needs testing!\n- Added teamchat command - /t\n- Added world resync command - /sync - a temporary workaround to the desync issue\n- Added import & export of game data - creates a zip file, which can be transferred between devices\n- Added dedicated \"Game Data\" menu in settings for data-related actions",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v92",
+  "id": 19673844,
+  "name": "4.0 Build 92",
+  "prerelease": false,
+  "published_at": "2019-08-31T17:15:03Z",
+  "tag_name": "v92",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v92",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v92"
+}

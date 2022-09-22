@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Improved icons\r\n- Improved unit rotation visuals when moving and building/mining\r\n- Decreased command limit of early game flying units to reduce PvP rushing\r\n- Made core units unlock on spawn\r\n- Switched to a new, unified audio framework for all platforms\r\n- Added new sound effects and loops\r\n- Added new music\r\n- Added community server groups with optional titles and a hide button\r\n- Added editor search bar (Contributed by @summetdev)\r\n- Campaign: Added indicators for enemy attack sources\r\n- Campaign: Made T4 unit waves spawn less often\r\n- Campaign: Made guardians slightly easier\r\n- Campaign: Increased Fungal Pass core protection range\r\n- Campaign: Various bugfixes\r\n- Campaign: Added \"new\" map, Impact0078 - this was originally made by Dexapnow in a map contest, but never fully implemented",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v113",
+  "id": 33814258,
+  "name": "6.0 Build 113 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-11T17:00:42Z",
+  "tag_name": "v113",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v113",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v113"
+}

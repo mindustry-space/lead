@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v93/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 14937434,
+      "name": "Mindustry.jar",
+      "size": 42842900
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v93/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14937435,
+      "name": "server-release.jar",
+      "size": 4035239
+    }
+  ],
+  "body": "- Added new spawn animations w/ progress bar and names\n- Added configurable server whitelist based on player UUID\n- Added many new events for plugins\n- Added core land animation\n- Added player limit for servers\n- Added gamemode display for server/save lists\n- Added new filechooser for Android, fixes file access on Android 10\n- Added core storage space increase via adjacent vaults or containers\n- Made unloader be able to take items from any block\n- Improved votekick sensitivity\n- Fixed many various bugs",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v93",
+  "id": 20002573,
+  "name": "4.0 Build 93",
+  "prerelease": false,
+  "published_at": "2019-09-16T02:15:13Z",
+  "tag_name": "v93",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v93",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v93"
+}

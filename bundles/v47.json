@@ -1,0 +1,16 @@
+{
+  "bundle.properties": {},
+  "bundle_de.properties": {},
+  "bundle_es.properties": {},
+  "bundle_fr.properties": {},
+  "bundle_in_ID.properties": {},
+  "bundle_ita.properties": {
+    "text.server.kicked.invalidPassword=10468": "Password non valida."
+  },
+  "bundle_ko.properties": {},
+  "bundle_pl.properties": {},
+  "bundle_pt_BR.properties": {},
+  "bundle_ru.properties": {},
+  "bundle_tk.properties": {},
+  "bundle_uk_UA.properties": {}
+}

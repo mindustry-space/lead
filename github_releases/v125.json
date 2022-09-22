@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v125/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 32161403,
+      "name": "Mindustry.jar",
+      "size": 72075190
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v125/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 32161404,
+      "name": "server-release.jar",
+      "size": 9179519
+    }
+  ],
+  "body": "- Fixed enemy power nodes getting linked w/ allied ones, leading to buggy power behavior\n- Fixed chat not working when paused\n- Fixed 128+ cores on map breaking servers\n- Fixed editor breaking building links on resize\n- Fixed onscreen green lines occurring for specific GPUs/drivers [Desktop]\n- Made turrets/units take enemy hitbox size into account when targeting\n- Made builder/repair AI flee from enemies when idle\n- Made data export zip include folder entries and strip absolute file paths - this may fix some issues with external archive programs\n- Added rules for unit cap control [Contributed by @TranquillyUnpleasant]\n- Added new splash damage algorithm - should lead to faster & more accurate explosions, but may require balancing\n- Added log file for data-loading events - should assist with fixing the data wipe bug\n- Mods: Fixed trailing commas in hjson files being parsed as part of unquoted strings\n- Mods: Many various bugfixes for json effects\n- Logic: Added tooltips to most instructions/operators [Desktop]\n- Logic: Added `===` operator for exact comparisons, e.g. null checks\n- Logic: Made 'invalid' operations - such as sensing null blocks or 0/0 - return null instead of 0\n- Logic: Fixed units disappearing when moving to infinite position\n- Logic: Added sensor for force projector heat",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v125",
+  "id": 38123777,
+  "name": "6.0 Build 125 ",
+  "prerelease": false,
+  "published_at": "2021-02-16T18:27:51Z",
+  "tag_name": "v125",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v125",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v125"
+}

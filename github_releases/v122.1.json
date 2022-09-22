@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v122.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30092608,
+      "name": "Mindustry.jar",
+      "size": 72089947
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v122.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30092609,
+      "name": "server-release.jar",
+      "size": 9110110
+    }
+  ],
+  "body": "- Various minor bugfixes\r\n- Increased power source output again\r\n- Improved building beam visuals\r\n- Improved performance of maps with many adjacent power nodes/batteries\r\n- Disabled weather in editor",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v122.1",
+  "id": 35826690,
+  "name": "6.0 Build 122.1 ",
+  "prerelease": false,
+  "published_at": "2020-12-30T01:03:47Z",
+  "tag_name": "v122.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v122.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v122.1"
+}

@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>Conveyor belt contents and turret ammo are now saved. As always, this will clear old saves.</li><li>Fixed routers distributing materials unevenly</li><li>Capped router item capacity</li><li>Conveyor belts can now pile up items and stop accepting new ones, instead of stacking them all in one location</li><li>Doubled countdown time for the first wave of every game</li><li>Capped turret ammo</li><li>Changed turret ammo display from a text indicator to a green health-like bar</li><li>Added additional description information for turrets</li><li>Healing turrets now rotate toward block targets like other turrets</li><li>Fixed bug that caused ridiculous amounts of screenshake</li><li>Other various bugfixes</li></ul>",
+  "published_at": "2017-08-26 01:06:29",
+  "title": "1.5",
+  "uploads": [
+    {
+      "date": "26 August 2017 @ 00:49",
+      "name": "Mindustry-mac-1.5.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "26 August 2017 @ 00:49",
+      "name": "Mindustry-linux64-1.5.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "26 August 2017 @ 00:49",
+      "name": "Mindustry-windows64-1.5.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "26 August 2017 @ 01:04",
+      "name": "mindustry-android-1.5.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/8406/15"
+}

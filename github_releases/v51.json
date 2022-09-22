@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed conveyors not inputting items into multi-blocks, such as the core",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v51",
+  "id": 12424899,
+  "name": "4.0 Build 51 (Hotfix)",
+  "prerelease": false,
+  "published_at": "2018-08-15T23:44:40Z",
+  "tag_name": "v51",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v51",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v51"
+}

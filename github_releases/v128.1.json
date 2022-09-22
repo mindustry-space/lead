@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v128.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 40525678,
+      "name": "Mindustry.jar",
+      "size": 65172209
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v128.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 40525681,
+      "name": "server-release.jar",
+      "size": 7107459
+    }
+  ],
+  "body": "- Fixed Poly units rebuilding blocks that were canceled after they acquired a target\n- Fixed various JavaScript operators not being available, causing crashes [Mods]\n- Fixed buildings not being saved properly [Logic]\n- Fixed idle command not stopping unit movement [Logic]\n- Fixed continuous lasers in units having broken sound\n- Fixed mod dialog width exceeding screen size on phones\n- Fixed negative bullet knockback not pulling in units\n- Fixed lightning extending \"wet\" status effect lifetime on apply\n- Made defeated teams in PvP automatically turn derelict/explode\n- Improved naval support shoot sounds\n- Added sounds for rocks/vegetation breaking\n- Campaign: Improved planet generation; paths between core and spawns should now be less straight\n- Campaign: Fixed planet generator including inaccessible areas of map",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v128.1",
+  "id": 46366050,
+  "name": "7.0 Build 128.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-07-17T23:29:08Z",
+  "tag_name": "v128.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v128.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v128.1"
+}

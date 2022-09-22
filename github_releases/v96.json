@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v96/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 15150961,
+      "name": "Mindustry.jar",
+      "size": 42893205
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v96/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 15150963,
+      "name": "server-release.jar",
+      "size": 4056554
+    }
+  ],
+  "body": "This is a hotfix release. While, in theory, I could release another revision instead, this ensures that people joining servers will be notified of their incompatibility and have all the necessary bugfixes.\n\n- Fixed flying units not attacking\n- Fixed bridge mechanics\n- Fixed invisible/missing players on multiplayer\n- Fixed multiplayer crashes\n- Fixed pathfinding crashes\n- Fixed pathfinding not working for friendly units\n- Fixed many other common issues",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v96",
+  "id": 20290122,
+  "name": "4.0 Build 96",
+  "prerelease": false,
+  "published_at": "2019-09-26T20:23:49Z",
+  "tag_name": "v96",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v96",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v96"
+}

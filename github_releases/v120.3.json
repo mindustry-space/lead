@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.3/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29062469,
+      "name": "Mindustry.jar",
+      "size": 72277513
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.3/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29062473,
+      "name": "server-release.jar",
+      "size": 9049594
+    }
+  ],
+  "body": "- Added disclaimer for community servers\n- Added hints concerning core upgrades and numbered sectors\n- Decreased spore storm opacity\n- Made items stay inside reconstructors when rebuilding (Contributed by @Quezler)\n- Made early game procedural sectors slightly easier\n- Fixed some blocks having duplicate research dependencies\n- Fixed legacy research not being cleared after first import\n- Possibly fixed a rare crash on 32-bit systems",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120.3",
+  "id": 34721969,
+  "name": "6.0 Build 120.3 ",
+  "prerelease": false,
+  "published_at": "2020-12-02T23:06:32Z",
+  "tag_name": "v120.3",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120.3",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120.3"
+}

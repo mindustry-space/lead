@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v68/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11782339,
+      "name": "desktop-release.jar",
+      "size": 24077558
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v68/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11782341,
+      "name": "server-release.jar",
+      "size": 3557210
+    }
+  ],
+  "body": "- Fixed editor undo crash\r\n- Fixed many other various crashes\r\n- Fixed units not attacking when patrolling\r\n- Fixed \"resources launched\" dialog going off-screen\r\n- Many iOS-specific fixes, e.g. crashes\r\n- Added stats for ammo\r\n- Added custom game rules\r\n- Added early-game mender block\r\n- Added setting for locking screen to landscape [Android]\r\n- Added bat/sh run files to distribution [Server]\r\n- Added new wave requirements to zones, removed item requirement\r\n- Added message for attack maps lacking enemy core\r\n- Added Mend Projector stats\r\n- Added new high-tier launchpad with stats\r\n- Made launch pads transfer full inventories instead of single item types\r\n- Smoother edges for tile transitions\r\n- More optimized shadows; FPS jumped from 30->60 on a test phone\r\n- Slightly decreased tech tree cost\r\n- Reduced Ghoul bomber health\r\n- Increased wall health\r\n- Increased Wave turret bullet speed and range\r\n- Increased all Mend Projector stats\r\n- Increased Arc range and damage\r\n- Increased Scatter range, fire rate, bullet speed and damage\r\n- the menu bug refuses to die",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v68",
+  "id": 16423032,
+  "name": "v4 Build 68 - Beta",
+  "prerelease": false,
+  "published_at": "2019-03-28T21:59:18Z",
+  "tag_name": "v68",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v68",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v68"
+}

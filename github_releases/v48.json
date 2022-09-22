@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Massive amount of various bugfixes\r\n- Many various crashes fixed on all platforms\r\n- Fixed mac version not being functional at all\r\n- Fixed many various server exploits\r\n- Translation bundles updated\r\n- Web version should now be completely functional\r\n- New sector mission system, currently very unfinished\r\n- New auto-tiling conveyors, similar to conduits\r\n- Made both starter drills 2x2\r\n- Made splitter chain-able again, changed to router texture\r\n- Made smelter consume exactly 1 coal per tungsten\r\n- Changed some turret sprites to fix 8x8 space\r\n- Reduced relative cost of starter drills\r\n- Removed camera lock around map, only for sectors\r\n- Added FPS cap setting\r\n- Added saving of map fog\r\n- Added mass-driver transportation block\r\n- Added spawner blocks for all current units ('pads')\r\n- Added sandbox mode\r\n- Added built-in sandbox map\r\n- Added 3x3 drill\r\n- Added command center block for units in PvE missions only\r\n- Improved editor flood fill performance\r\n- General performance optimizations\r\n- Probably many other things, it's been 3 weeks and I'm sure I'm forgetting something",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v48",
+  "id": 12299992,
+  "name": "4.0 Build 48 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-08-08T00:16:33Z",
+  "tag_name": "v48",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v48",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v48"
+}

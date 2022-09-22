@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed major crash with power distributors placed next to each other\r\n- Fixed plastanium compressor causing instant game crash\r\n- Fixed player names not being displayed in multiplayer\r\n- Fixed duplicate ghost items dropping from players in multiplayer\r\n- Fixed duplicate ghost items dropping from enemies in multiplayer\r\n- Fixed players being invincible in multiplayer\r\n- Fixed chain-reaction crash with ships attempting to pick up ground players\r\n- Fixed not being able to select blocks you don't have resource for\r\n- Fixed drills not being placeable even when one of their sides was on an ore\r\n- Fixed building or breaking being canceled and not resumed when a player gets too far away\r\n- Fixed ghost players appearing in player list after multiplayer re-login\r\n- Fixed turbine displaying error texture\r\n- Fixed constructing players no showing up when connecting to server\r\n- Fixed some bugs with placement not triggering\r\n- Fixed many various crashes\r\n- Re-added nuclear reactor\r\n- Removed fake select/break/shoot keybinds [Desktop]\r\n- Increased lancer turret range and reload speed\r\n- Increased generation power of oil\r\n- Increased wave time by 33%\r\n- Increased reload time of all blaster enemies, including flying ones\r\n- Pushed back spawn waves of flying enemies\r\n- Decreased speed of all flying enemies and fast ground enemies\r\n- Increased placement speed with recipes using tungsten, lead and silicon\r\n- Decreased placement speed of other high-level resources (net result is an increase in build speed)\r\n- New building system: every block can now be constructed or deconstructed mid-way\r\n- Blocks no longer decay when not constructed\r\n- Minor optimizations\r\n- Improved enemy drop tables, items are dropped much less often with higher quantities\r\n- Fixed AI walking over and drowning in deep water constantly\r\n- Fixed trails glitching across screen when a unit goes in and out of view range",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v45",
+  "id": 11800277,
+  "name": "4.0 Build 45 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-07-05T20:01:40Z",
+  "tag_name": "v45",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v45",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v45"
+}

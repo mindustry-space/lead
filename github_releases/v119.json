@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v119/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 28913999,
+      "name": "Mindustry.jar",
+      "size": 72232496
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v119/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 28914000,
+      "name": "server-release.jar",
+      "size": 9045749
+    }
+  ],
+  "body": "The final beta build.\r\n\r\n- Updated link to wiki modding guide, now points to new wiki\r\n- Fixed weaving missiles consistently moving off to one direction\r\n- Fixed units shooting fast bullets on servers in certain conditions\r\n- Fixed some crashes\r\n- Made construction of rotated blocks free/instant (i.e. equivalent to manually rotating it)\r\n\r\nCampaign:\r\n- Better production calculation system\r\n- Fixed deconstruction counting as production",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v119",
+  "id": 34549209,
+  "name": "6.0 Build 119 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-29T16:21:38Z",
+  "tag_name": "v119",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v119",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v119"
+}

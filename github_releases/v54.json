@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed players being removed and invisible after game restart\r\n- Fixed mobile users being able to place desktop-only blocks\r\n- Fixed some issues with crash reports [Desktop]\r\n- Fixed block requirement UI being shown after selection",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v54",
+  "id": 12693174,
+  "name": "4.0 Build 54 (Hotfix)",
+  "prerelease": false,
+  "published_at": "2018-09-02T17:33:52Z",
+  "tag_name": "v54",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v54",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v54"
+}

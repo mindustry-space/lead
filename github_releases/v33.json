@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed web version displaying all servers as outdated\r\n- Fixed 'client ID invalid' error on Android\r\n- Fixed a few dedicated server crashes\r\n- Added 'version' command for dedicated servers\r\n- Changed pinging system [servers no longer 'get' web connections when they are pinged]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v33",
+  "id": 10018043,
+  "name": "3.4 Build 33",
+  "prerelease": false,
+  "published_at": "2018-03-09T15:14:25Z",
+  "tag_name": "v33",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v33",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v33"
+}

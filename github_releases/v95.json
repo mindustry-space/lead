@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v95/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 15107770,
+      "name": "Mindustry.jar",
+      "size": 42880271
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v95/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 15107771,
+      "name": "server-release.jar",
+      "size": 4055033
+    }
+  ],
+  "body": "- Fixed zone exploit caused by import of zone saves\n- Reverted to old file chooser when possible [Android]\n- New multithreaded pathfinding implementation\n- Made attack command have units move toward enemy spawnpoints in survival\n- Made votekick still tempban people after disconnection\n- Added 'rally' command to  command center, replaces old patrol command\n- Added full Android keyboard support, completely removes any touch input, adds desktop keys\n- Added ability to rotate lines while placing [Desktop] [Contributed by Synray]\n- Added votekick button\n- Added display of power capacity in power graphs\n- Added armored conveyors - more armor than titanium, don't accept items from sides\n- Added message blocks - editable text",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v95",
+  "id": 20229669,
+  "name": "4.0 Build 95",
+  "prerelease": false,
+  "published_at": "2019-09-25T01:07:25Z",
+  "tag_name": "v95",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v95",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v95"
+}

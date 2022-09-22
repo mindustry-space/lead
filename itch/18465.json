@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>New placement mode: Hold to place multiple blocks</li><li>New break mode: Hold to delete many blocks in an area</li><li>General bugfixes</li><li>Added Discord link</li></ul>",
+  "published_at": "2017-12-17 01:36:34",
+  "title": "3.1",
+  "uploads": [
+    {
+      "date": "17 December 2017 @ 01:21",
+      "name": "Mindustry-mac-3.1.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "17 December 2017 @ 01:21",
+      "name": "Mindustry-linux64-3.1.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "17 December 2017 @ 01:21",
+      "name": "Mindustry-windows64-3.1.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "58 MB"
+    },
+    {
+      "date": "17 December 2017 @ 01:21",
+      "name": "mindustry-android-3.1.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "33 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/18465/31"
+}

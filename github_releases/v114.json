@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v114/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 28389580,
+      "name": "Mindustry.jar",
+      "size": 71805161
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v114/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 28389581,
+      "name": "server-release.jar",
+      "size": 8754484
+    }
+  ],
+  "body": "- Sound fixes for various platforms\r\n- Added a few new sound effects\r\n- Added stats for unit weapons (Contributed by @genNAowl)\r\n- Logic: Added logical AND operation\r\n- Disabled automatic targeting of derelict structures\r\n- Campaign: Many various bugfixes\r\n- Campaign: Added random water pool generation\r\n- Campaign: Added more preset sectors\r\n- Campaign: Removed item/liquid research costs, items are now discovered upon production\r\n- Campaign: Added preset sector requirements to certain blocks to encourage capture\r\n- Campaign: Fixed every base having random schematics instead of ones based on difficulty\r\n- Campaign: Better base schematics\r\n- Campaign: Added discrete difficulty ratings for sectors\r\n- Campaign: Made enemy bases become derelict upon capture\r\n- Campaign: Added customizable sector icons\r\n- Campaign: Made sector presets automatically unlock and display\r\n- Campaign: More scrap generation\r\n- Campaign: Changes to planet UI",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v114",
+  "id": 34027266,
+  "name": "6.0 Build 114 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-16T22:13:33Z",
+  "tag_name": "v114",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v114",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v114"
+}

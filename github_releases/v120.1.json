@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29005703,
+      "name": "Mindustry.jar",
+      "size": 72274568
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29005709,
+      "name": "server-release.jar",
+      "size": 9046909
+    }
+  ],
+  "body": "- Fixed two rare crashes\n- Fixed green lines appearing on screen w/ Intel GPUs [Desktop]\n- Made units depend on their production materials in tech tree\n- Made conveyors replaceable by distributors\n- Translation updates",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120.1",
+  "id": 34658524,
+  "name": "6.0 Build 120.1 ",
+  "prerelease": false,
+  "published_at": "2020-12-01T22:00:03Z",
+  "tag_name": "v120.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120.1"
+}

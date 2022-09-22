@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v122/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29920413,
+      "name": "Mindustry.jar",
+      "size": 72039702
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v122/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29920414,
+      "name": "server-release.jar",
+      "size": 9087626
+    }
+  ],
+  "body": "- Fixed Quad AI\n- Fixed crash in conveyor upgrade pathing\n- Fixed other various crashes\n- Fixed custom name resetting after restart [Steam]\n- Fixed various achievements not triggering [Steam]\n- Made payload pickups prioritize units in blocks instead of the blocks themselves\n- Increased foreshadow coolant effectiveness, but slightly decreased rotation speed\n- Improved space skybox scaling\n- Added building damage stats to bullets\n- Added WIP mod browser for GitHub mods\n- Added preview of currently queued block for other units in certain situations\n- Added automatic bridge spacing when using lines\n- Added bridge link preview\n- Added rule for persistent (\"always\") weather\n- Better scrap wall textures & rotate-able thruster (Contributed by @Voz-Duh)\n- Made Plastanium conveyor unloadable\n- Made building pause status sync in multiplayer\n- Slight pulsar damage nerf",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v122",
+  "id": 35668606,
+  "name": "6.0 Build 122 ",
+  "prerelease": false,
+  "published_at": "2020-12-23T17:51:28Z",
+  "tag_name": "v122",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v122",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v122"
+}

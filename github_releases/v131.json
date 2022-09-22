@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v131/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 44619674,
+      "name": "Mindustry.jar",
+      "size": 67321973
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v131/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 44619676,
+      "name": "server-release.jar",
+      "size": 7178894
+    }
+  ],
+  "body": "- Fixed Omura bullet trail length not being cut off by impact\n- Fixed BE server not auto-updating\n- Fixed sectors having decreased production/export when loaded for a short time\n- Fixed overdrive visuals displaying for liquid routers/conduits\n- Fixed overdrive projectors not affecting passive sector damage calculations\n- Fixed alpha bleeding not applying properly to mods\n- Made Stained Mountains guardian easier\n- Made pebbles look less like ore\n- Made most configurable blocks show their inventory when tapped\n- Made campaign bases slightly denser\n- Made Base AI walls correspond to tier\n- Many various improvements to wave editor (Contributed by @JrTRinny, @TranquillyUnpleasant)\n- Made drills no longer show items under solid walls\n- Unit rebalancing\n- Added unit icon selection for sectors\n- Added 'target' field to river noise filter\n- Added repair turrets to Vela\n- Added Deep Tainted Water, made standard tainted water shallow\n- Added rivers to Serpulo generation\n- Added cliff button to map editor\n- Added subtle shadow to ships\n- Added 2 new (untested!) campaign naval maps\n- Improved compatibility with v6 mods",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v131",
+  "id": 49423662,
+  "name": "7.0 Build 131 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-09-13T00:34:57Z",
+  "tag_name": "v131",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v131",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v131"
+}

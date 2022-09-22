@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129.1/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 41220578,
+      "name": "server-release.jar",
+      "size": 7022094
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129.1/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 41220636,
+      "name": "Mindustry.jar",
+      "size": 66489034
+    }
+  ],
+  "body": "- Fixed unit building not starting when some resources are missing",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v129.1",
+  "id": 46937373,
+  "name": "7.0 Build 129.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-07-28T22:11:25Z",
+  "tag_name": "v129.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v129.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v129.1"
+}

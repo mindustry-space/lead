@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v137/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 73705201,
+      "name": "Mindustry.jar",
+      "size": 70762064
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v137/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 73705203,
+      "name": "server-release.jar",
+      "size": 8898992
+    }
+  ],
+  "body": "- Fixed boosting units jittering when near obstacles [Mobile]\n- Fixed command UI not refreshing when switching single units\n- Fixed shielded walls being available on Serpulo\n- Fixed core schematics not connecting bridges on launch\n- Fixed some random network errors\n- Fixed various resource duping bugs in launch UI\n- Fixed certain Serpulo generators not displaying liquids\n- Fixed lightning not being able to damage conveyors\n- Fixed seams in tiles on certain mobile devices\n- Fixed various duct-related blending issues\n- Fixed stack router not outputting evenly\n- Fixed legged units being able to drown even when the body is on land\n- Fixed certain icons being squished\n- Added Flux Reactor block (unbalanced!)\n- Added Neoplasia Reactor block (unbalanced!)\n- Added Heat Source block for sandbox\n- Added command order system for Serpulo support units\n- Made Neoplasm liquid accessible in liquid sources/core database\n- Made drills only display mine-able resources from current map",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v137",
+  "id": 73691539,
+  "name": "7.0 Build 137 - Alpha",
+  "prerelease": true,
+  "published_at": "2022-08-04T18:17:50Z",
+  "tag_name": "v137",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v137",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v137"
+}

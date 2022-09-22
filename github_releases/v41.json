@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "The first public 4.0 release. Expect major bugs and performance issues.\r\n\r\nChangelog is not provided, as it is too large and putting everything together would take too long. Nearly all blocks and aspects of gameplay have been completely re-worked.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v41",
+  "id": 11761251,
+  "name": "4.0 Build 41 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-07-03T15:30:23Z",
+  "tag_name": "v41",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v41",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v41"
+}

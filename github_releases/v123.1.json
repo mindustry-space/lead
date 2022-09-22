@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v123.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30997663,
+      "name": "Mindustry.jar",
+      "size": 72019955
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v123.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30997667,
+      "name": "server-release.jar",
+      "size": 9131580
+    }
+  ],
+  "body": "- Fixed negative numbers not displaying properly in power nodes\n- Fixed mod minVersion parsing\n- Fixed mods disappearing after import [Android]\n- Disabled duplicate IP prevention system\n- Added mod browser sort order button",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v123.1",
+  "id": 36714697,
+  "name": "6.0 Build 123.1 ",
+  "prerelease": false,
+  "published_at": "2021-01-21T14:02:17Z",
+  "tag_name": "v123.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v123.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v123.1"
+}

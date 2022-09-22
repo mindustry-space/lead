@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v74/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12370350,
+      "name": "desktop-release.jar",
+      "size": 24762696
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v74/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12370351,
+      "name": "server-release.jar",
+      "size": 3595907
+    }
+  ],
+  "body": "- Fixed older maps with dart/alpha pads not loading\r\n- Fixed desert wastes zone not loading on older devices [Android]\r\n- Fixed game freezing instead of freezing in certain situations\r\n- Fixed recipe tree info box disappearing on click\r\n- Fixed liquid source outputting water for the first frame\r\n- Fixed liquid junction taking in liquids regardless of output status\r\n- Fixed some obscure crashes\r\n- Removed camera clamp [Mobile]\r\n- Added unstable borderless window option [Desktop]\r\n- Added liquid source no-liquid mode\r\n- Tweaked drill priority algorithm to prefer scrap and coal over sand regardless of proportions\r\n- Made nearly all power blocks work with partial power, albeit at reduced efficiency\r\n- Changed default mech to dart",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v74",
+  "id": 17135636,
+  "name": "v4 Build 74 - Beta",
+  "prerelease": false,
+  "published_at": "2019-05-03T14:37:34Z",
+  "tag_name": "v74",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v74",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v74"
+}

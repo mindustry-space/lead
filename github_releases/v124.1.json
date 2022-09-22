@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v124.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 31805907,
+      "name": "Mindustry.jar",
+      "size": 72071523
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v124.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 31805908,
+      "name": "server-release.jar",
+      "size": 9176168
+    }
+  ],
+  "body": "- Fixed mod list being fetched on startup, leading to potentially annoying error messages\n- Fixed crash when a mod without a version is viewed\n- Un-blacklisted arc.Net\n- Added unit armor stats to database\n- Added unit production time to unit factory database",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v124.1",
+  "id": 37748391,
+  "name": "6.0 Build 124.1 ",
+  "prerelease": false,
+  "published_at": "2021-02-08T15:53:10Z",
+  "tag_name": "v124.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v124.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v124.1"
+}

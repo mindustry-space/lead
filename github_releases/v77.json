@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v77/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13083116,
+      "name": "desktop-release.jar",
+      "size": 23054398
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v77/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13083118,
+      "name": "server-release.jar",
+      "size": 3678161
+    }
+  ],
+  "body": "- Fixed wave turret not firing correctly when targeting large blocks\r\n- Fixed fire not appearing on servers\r\n- Fixed mass drivers not being affected by low power\r\n- Changed maps to use the same format as saves. Existing maps are converted on startup.\r\n- Added in-game editor to configure blocks and place units. Other editing is currently not supported due to the paused state.\r\n- Added map default rule selection\r\n- Added delayed buffers to all previous 'instant-transfer' blocks (sorter, overflow gate)\r\n- Added repulsion field around enemy spawnpoints \r\n- Added median filter in editor\r\n- Added a few maps from mapping contest\r\n- Added starting items of 100 copper to custom games\r\n- Added 'diagonal mode' button, moved cancel button to left [Mobile]\r\n- New tile transitions to prevent 'deceptive' blending\r\n- New map selection screen, allows for choosing custom rules based on map\r\n- Many internal changes to support map saves\r\n- Tweaks to mech balance\r\n- Tweaks to pathfinding, may fix some issues\r\n- Improved most block sprites\r\n- Increased Fuse range, decreased reload time\r\n- Increased Impact Reactor power output, decreased item and cryofluid usage\r\n- Changelogs and contributors are now only fetched when dialogs are opened, reducing memory usage\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v77",
+  "id": 17852737,
+  "name": "v4 Build 77 - Beta",
+  "prerelease": false,
+  "published_at": "2019-06-07T13:44:56Z",
+  "tag_name": "v77",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v77",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v77"
+}

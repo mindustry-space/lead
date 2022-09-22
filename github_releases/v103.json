@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v103/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 17558490,
+      "name": "Mindustry.jar",
+      "size": 44834268
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v103/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 17558491,
+      "name": "server-release.jar",
+      "size": 5537139
+    }
+  ],
+  "body": "- Added new icons w/ smooth scaling\r\n- Added liquid void (Contributed by @TsjipTsjip)\r\n- Added bridge opacity slider (Contributed by @Quezler)\r\n- Added \"underflow\" gate (opposite of overflow gate)\r\n- Added \"emojis\" for most blocks and items into the font\r\n- Added new tech tree layout w/ better mod support\r\n- Added game log file, stored in data folder\r\n- Added new separator sprite/animation\r\n- Added list of affinity tiles to stats of certain blocks\r\n- Added mod name to description of content, when applicable\r\n- Added basic subnet bans [Server]\r\n- Added search player command [Server]\r\n- Added API for blocking player interactions [Server]\r\n- Added several new options for server, including MOTD and description [Server]\r\n- Added player limit slider [Steam]\r\n- Added visual indication of input mass drivers when configuring\r\n- Added property for mod ores to be added to default generation\r\n- Moved all data files to external folder [Android]\r\n- Made chat no longer clear after /sync\r\n- Increased cost for higher tier tech tree blocks\r\n- Slightly increased build time of basic transport blocks to prevent spam\r\n- Fixed votekick button not appearing\r\n- Fixed infinite storage capacity exploit\r\n- Reduced votekick cooldown\r\n- Changed cyrllic font (again)\r\n- Changed mod class whitelist to blacklist",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v103",
+  "id": 23111371,
+  "name": "5.0 Build 103",
+  "prerelease": false,
+  "published_at": "2020-01-24T17:44:08Z",
+  "tag_name": "v103",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v103",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v103"
+}

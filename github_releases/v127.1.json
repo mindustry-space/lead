@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 39269603,
+      "name": "Mindustry.jar",
+      "size": 66012783
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 39269610,
+      "name": "server-release.jar",
+      "size": 7098294
+    }
+  ],
+  "body": "Cleaning up a few bugs I missed.\n\n- Fixed players being assigned to the derelict team on PvP\n- Fixed users crashing on server connect [Steam]\n- Fixed jittery interpolation on servers\n- Fixed a couple rare crashes\n- Potential fix for small viewport on Retina displays [MacOS]\n- Hid outdated multiplayer lobbies [Steam]\n- Passage map: Made side-cores captured by default to reduce rushing\n- Mods: Suppressed class/field/method resolution exceptions thrown on ClientLoadEvent to avoid crashes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v127.1",
+  "id": 45276126,
+  "name": "7.0 Build 127.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-06-26T15:20:24Z",
+  "tag_name": "v127.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v127.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v127.1"
+}

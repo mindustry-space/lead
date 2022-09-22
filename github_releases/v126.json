@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v126/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 33016660,
+      "name": "Mindustry.jar",
+      "size": 72138413
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v126/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 33016661,
+      "name": "server-release.jar",
+      "size": 7221009
+    }
+  ],
+  "body": "- Various minor bugfixes\n- Made water extractor use metaglass for building, to be consistent with pumps\n- Added automatic conveyor/conduit bridging over obstacles\n- Added 'defender' AI for Oct; follows nearby units\n- Cores can now replace most transport blocks; turrets can now replace each other\n- Improved bridge & power node linking previews\n- Buffed Segment & Vela\n- Added logicUnitBuild rule; Sandbox server owners are advised to disable logic building with `rules add logicUnitBuild false`.\n- Logic: Changed default unit control state to be 'idle', not 'stop'\n- Logic: Made config / unit building instructions accept buildings as configuration to copy their config. This allows for self-replicating processors.\n- Logic: Added sensors for `dead`, `controller`, `size`, `boosting`\n- Logic: Made `controlled` return ctrlProcessor/ctrlPlayer/ctrlFormation/0 depending on controller type\n- Logic: Deprecated \"commanded\"; use `controlled` instead! This sensor will be removed in a future release.\n- Logic: More hints",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v126",
+  "id": 39358892,
+  "name": "6.0 Build 126 ",
+  "prerelease": false,
+  "published_at": "2021-03-05T19:41:48Z",
+  "tag_name": "v126",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v126",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v126"
+}

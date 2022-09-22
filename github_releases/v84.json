@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v84/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14198006,
+      "name": "desktop-release.jar",
+      "size": 34667318
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v84/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14198008,
+      "name": "server-release.jar",
+      "size": 17057193
+    }
+  ],
+  "body": "- Fixed UI scaling not working on mobile\r\n- Fixed custom rules not working on mobile\r\n- Fixed crash occurring on loading older maps\r\n- Fixed some older maps having automatic ore gen\r\n- Fixed users being able to open multiple dialogs in menu\r\n- Fixed players being able to play \"\"multiplayer\"\" in a singleplayer world via dialog exploit\r\n- Fixed crashes sometimes not getting displayed or saved\r\n- Fixed wave menu jittering\r\n- Improved item inventory display\r\n- Improved UI fading\r\n- Moved launch controls to wave button\r\n- Changed default team color to orange\r\n- Rebalancing: all blocks now cost half as much, with correspondingly less ore generated\r\n- Added new mandatory Attack map\r\n- Added power beam color modulation based on satisfaction\r\n- Added automatic node linking\r\n- Added drill speed/output display\r\n- Added display for turret ammo needed/used\r\n- Added music. Currently only for main menu, editor and launch dialog. In-game music will be added next release.\r\n- Added sound effects; for testing only. Incomplete; will be updated next release.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v84",
+  "id": 19095005,
+  "name": "4.0 Build 84 - Beta",
+  "prerelease": false,
+  "published_at": "2019-08-06T02:26:23Z",
+  "tag_name": "v84",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v84",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v84"
+}

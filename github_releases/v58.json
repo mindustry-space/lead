@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v58/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9260238,
+      "name": "desktop-release.jar",
+      "size": 14395737
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v58/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9260240,
+      "name": "server-release.jar",
+      "size": 7667528
+    }
+  ],
+  "body": "Not really a hotfix, but there's not much in this release besides bugfixes.\r\n\r\nKnown limitations:\r\n- Sectors in multiplayer do not sync missions\r\n- Sectors in multiplayer kick/disconnect players when being resized\r\n\r\nThis is due to the way sectors work. I won't be implementing a fix very soon.\r\n\r\nChanges:\r\n- Fixed constant crashes with multithreading enabled\r\n- Fixed not being able to use mech pads at FPS < 60\r\n- Fixed AI bases regenerating after loading a sector\r\n- Fixed legacy map importer flipping images on X/Y axes\r\n- Fixed power void power capacity being displayed\r\n- Fixed player menu buttons flashing\r\n- Fixed unused statistics displayed being in trace menu\r\n- Fixed chat from previous games mot clearing\r\n- Fixed ghost targets\r\n- Fixed mechs pathfinding terribly, sometimes through or into deep water/lava\r\n- Fixed abandoning sectors not resetting complete status\r\n- Fixed tutorial ores not regenerating after a crash inside it\r\n- Fixed draw order of overlays being below shields\r\n- Fixed camera moving to core when entering a mech pad\r\n- Fixed playing a random map after sectors being treated as a sector\r\n- Fixed tau mech shooting building blocks leading to a glitched mess\r\n- Fixed RTG sometimes not using power\r\n- Fixed crash on placing a command center [Web]\r\n- Fixed map editor not refreshing unlocks\r\n- Fixed landing effects wrongly appearing on ships\r\n- Fixed sandbox map being shuffled in server matches with custom maps\r\n- Fixed map names being case sensitive, allowing to save two 'sandbox' maps\r\n- Fixed loading of old maps causing errors\r\n- Fixed alpha builds displaying as 'official'\r\n- Fixed a single character typo that's been in the game for months and has been the target of various jokes involving different interpretations  of the word \"clipboard\" without a 'p' [contributed by Luxray]\r\n- Didn't fix any typos in the previous patch notes because nothing matters in the grand scheme of things anyway\r\n- Added annoying and obvious dialogs explaining unlock restrictions\r\n- Added liquid output speed display [contributed by islq]\r\n- Changed default block deselect keybind to RMB [Desktop]\r\n- Changed building to be deselectable by clicking away [Desktop]\r\n- Made PvP mode automatically despawn player when <2 players were online\r\n- Improved visuals of placement selection",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v58",
+  "id": 13526146,
+  "name": "4.0 Build 58",
+  "prerelease": false,
+  "published_at": "2018-10-19T02:41:07Z",
+  "tag_name": "v58",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v58",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v58"
+}

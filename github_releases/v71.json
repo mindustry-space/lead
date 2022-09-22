@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v71/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11902350,
+      "name": "desktop-release.jar",
+      "size": 24077365
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v71/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11902351,
+      "name": "server-release.jar",
+      "size": 3566763
+    }
+  ],
+  "body": "- Fixed many various crashes\r\n- Fixed some balancing errors (incompatible with build 70)\r\n- Added updated translation bundles",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v71",
+  "id": 16571019,
+  "name": "v4 Build 71 - Beta - Hotfix",
+  "prerelease": false,
+  "published_at": "2019-04-05T02:20:08Z",
+  "tag_name": "v71",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v71",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v71"
+}

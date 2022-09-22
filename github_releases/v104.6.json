@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v104.6/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 19076269,
+      "name": "Mindustry.jar",
+      "size": 48910370
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v104.6/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 19076271,
+      "name": "server-release.jar",
+      "size": 5555538
+    }
+  ],
+  "body": "- Added player search bar (Contributed by @fuzzbuck)\n- Updated various translations\n- Fixed duplicate player IDs - note that this will reset your UUID! [Android]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v104.6",
+  "id": 24950740,
+  "name": "5.0 Build 104.6",
+  "prerelease": false,
+  "published_at": "2020-03-27T22:29:21Z",
+  "tag_name": "v104.6",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v104.6",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v104.6"
+}

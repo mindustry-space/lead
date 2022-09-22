@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "This release might be more unstable than usual. Watch out.\r\n\r\n- Fixed many various crashes\r\n- Fixed movement being choppier than usual on servers in specific situations\r\n- Fixed bullets appearing in front of the shooter in multiplayer\r\n- Fixed bridge items being contaminated by nearby bridges\r\n- Fixed world map preview being very inaccurate\r\n- Fixed editor freezing when fill tool is used on the same type of block twice\r\n- Fixed players getting stuck after disconnecting while being carried\r\n- Fixed players being able to drop items into enemy blocks\r\n- Balancing of recipes and units\r\n- Increased damage of starter mech\r\n- Decreased wall health 25%\r\n- Removed tungsten and carbide, added copper and dense alloy items with slightly different recipes\r\n- Removed ammo for units and players\r\n- Removed health bars; now displayed as a power cell\r\n- Added mend projector block to repair nearby blocks\r\n- Added power requirement to reconstructors\r\n- Added mechs to unlock menu\r\n- Added surge alloy\r\n- Added reflective phase walls\r\n- Added 2 new turrets\r\n- Added 4 new mechs\r\n- Added shield around enemy core to prevent players from attacking directly\r\n- Added lightning appearing when power blocks are destroyed\r\n- Added mech flight while boosting\r\n- Added abilities to ground mechs, use with E [Desktop]\r\n- Added automatic anonymous crash reporting service [Desktop, Server]\r\n- Added rebindable keys for selecting, breaking and deselecting [Desktop]\r\n- Added continuous multiplayer without automatic kick [Server]\r\n- Added command to change default port [Server]\r\n- Added new menu background\r\n- Made most blocks non-placeable on liquids\r\n- Changed speed and damage of javelin ship\r\n- Changed default deselect key to space to support laptops and such [Desktop]\r\n- Changed world generation\r\n- Changed enemy base generation\r\n- Changed color palette of all player-made blocks, units and mechs\r\n- Implemented (waif)UPnP support: port forwarding may not be required for some users\r\n- Changed font to support wider range of characters [Thanks to @ Gureumi]\r\n- Translation bundles updated\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v53",
+  "id": 12692771,
+  "name": "4.0 Build 53 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-09-02T16:13:41Z",
+  "tag_name": "v53",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v53",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v53"
+}

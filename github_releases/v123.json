@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v123/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30960400,
+      "name": "Mindustry.jar",
+      "size": 72021162
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v123/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 30960402,
+      "name": "server-release.jar",
+      "size": 9132390
+    }
+  ],
+  "body": "As 6.0 is more or less stable now, updates have slowed down significantly. This is likely to be one of the last notable releases before 7.0.\n\n- Fixed same-line logic comments not parsing\n- Fixed Kamikaze achievement not triggering with flying units [Steam]\n- Fixed mass driver rotating before payload is received\n- Fixed bullets dealing splash damage twice upon collision - splash damage of certain bullets has been increased to compensate\n- Fixed floating point errors in core database leading to incorrect rounding\n- Fixed unit payloads snapping rotations when entering reconstructors\n- Fixed builder AI placing drills on incorrect/mixed resources & clogging crafters\n- Fixed editor mirror filter being offset in certain situations\n- Fixed music randomly cutting off after quit to main menu\n\n- Campaign: Made invasion chance scale with nearby enemy base count\n- Campaign: Added 20-minute invasion grace period after sector capture\n\n- Made impact reactor warmup time scale with boost (@Quezler)\n- Made players prioritize highest tier core when respawning\n- Made logic programs reset all state on edits\n- Made logic blocks no longer change 'last accessed' names when no edits are made\n- Made naval paths preload on maps with spawn points on liquids\n- Made Plastanium sprite slightly more distinct\n- Made ground units avoid walking in slag/deep water even when it is the only valid path\n- Made fire disappear faster in rain\n- Made conveyor items render under most blocks\n- Made server prevent duplicate IP connections\n- Made crosses render on item/liquid sources & sorters in schematics\n- Made building disabled state save upon world reload\n- Made status indicators smaller for 1x1 blocks\n- Made mod browser list mods by last update time\n\n- Implemented automatic mod list updates (currently, every 4 hours)\n- Improved unit selection visuals (@Voz-Duh)\n- Improved power status information (@Slava0135)\n- Added boost % bar too overdrive projectors (@Quezler)\n- Added IPv6 address support to join dialog (@markozajc)\n- Added core item incineration rule (@Quezler)\n- Added carried payloads to unit status bars & info (Partially implemented by @Slava0135)\n- Added slight shine effect, triggering upon building rotation\n- Removed overflow gate inventory\n- Increased power source output\n- Many other minor bugfixes & tweaks",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v123",
+  "id": 36675888,
+  "name": "6.0 Build 123 ",
+  "prerelease": false,
+  "published_at": "2021-01-20T19:34:39Z",
+  "tag_name": "v123",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v123",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v123"
+}

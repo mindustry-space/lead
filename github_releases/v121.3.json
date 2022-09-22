@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.3/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29563819,
+      "name": "Mindustry.jar",
+      "size": 72447734
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.3/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29563820,
+      "name": "server-release.jar",
+      "size": 9066747
+    }
+  ],
+  "body": "- Decreased junction item capacity - this may cause slight desync on servers running previous 121 versions, servers are advised to update\n- Many various small bugfixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v121.3",
+  "id": 35271382,
+  "name": "6.0 Build 121.3 ",
+  "prerelease": false,
+  "published_at": "2020-12-15T04:00:54Z",
+  "tag_name": "v121.3",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v121.3",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v121.3"
+}

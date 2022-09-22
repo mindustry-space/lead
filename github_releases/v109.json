@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v109/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 27128554,
+      "name": "Mindustry.jar",
+      "size": 62442496
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v109/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 27128555,
+      "name": "server-release.jar",
+      "size": 8501224
+    }
+  ],
+  "body": "- Fixed \"host game\" crash, as well as some other prominent bugs\r\n- Logic: Breaking change: All coordinates are now in tiles, not in \"world units\"\r\n- Logic: Added sensors for ammo (units/turrets)\r\n- Campaign: Added research button in mobile multiplayer (check pause menu)\r\n- Campaign: Added tech tree sharing in multiplayer - only the host can research\r\n- Campaign: Re-added sector invasions, any sector near an enemy base can be invaded\r\n- Campaign: Changed sector meta system, your items will be wiped\r\n- Campaign: Added save persistence, sectors will always have the same save even after defeat\r\n- Campaign: Disabled drop zone display/warning when sector is captured\r\n- Campaign: Moved capture wave indicator to wave UI",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v109",
+  "id": 32721117,
+  "name": "6.0 Build 109 - Beta",
+  "prerelease": true,
+  "published_at": "2020-10-18T13:21:01Z",
+  "tag_name": "v109",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v109",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v109"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v59/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9617796,
+      "name": "desktop-release.jar",
+      "size": 17984651
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v59/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9617797,
+      "name": "server-release.jar",
+      "size": 9047057
+    }
+  ],
+  "body": "I really don't have anything interesting to say about this release. How disappointing.\r\n\r\n- Fixed mechs on mobile being unusable (and it only took 20 individual bug reports!)\r\n- Fixed routers accepting more items than they should\r\n- Fixed crash when running game with Java 10\r\n- Fixed instant building after game reload\r\n- Fixed many various crashes related to multithreading\r\n- Fixed some sectors completing instantly\r\n- Fixed flying units blocking construction\r\n- Fixed crashes related to pumps\r\n- Fixed sector state not syncing in multiplayer at all\r\n- Fixed block breaking selection being offset when a 2x2 block is selected\r\n- Fixed not being able to shoot while mining [Mobile]\r\n- Fixed some typos\r\n- Fixed Revenant unit never shooting (it's still terrible though)\r\n- Fixed not being able to load any map after a corrupted map was loaded\r\n- Fixed connecting to offline servers freezing the game\r\n- Fixed pump placement being inconsistent [Contributed by Sonnicon]\r\n- Fixed physics being more terrible than usual\r\n- Fixed units moving higher and low/high TPS\r\n- Fixed multiblocks not outputting to bridges after save reload\r\n- Fixed... some other things\r\n- Improved map previews\r\n- Renamed oil and phase matter\r\n- Added descriptions for nearly all blocks [Contributed by Timmeey86]\r\n- Added new font with proper support for all in-game languages and cAsE sEnSiTiViTy\r\n- Added new UI palette\r\n- Added small lakes to world generation\r\n- Added local saving of crashes [Desktop]\r\n- Added server logs [Server]\r\n- Added new sector selection screen\r\n- Added localized/specific text for most errors\r\n- Added chained storage mechanic for cores\r\n- Added timestamps to output [Contributed by Luxray5474, Server]\r\n- Added label to command center commands [Contributed by Sonnicon]\r\n- Made alpha drones only appear when shooting\r\n- Made drones repair any damaged block on the map, regardless of distance\r\n- Made core accept any item again\r\n- Made power beam sprites less intrusive (...and less visually appealing)\r\n- Made storage blocks have individual item buffers\r\n- Re-scaled 'max power' on a blocks, changed to 'base power' and made many stats display as percentages\r\n- Removed many useless or unnecessary commands [Server] \r\n- Removed tutorial due to incoming block changes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v59",
+  "id": 13909047,
+  "name": "4.0 Build 59 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-11-08T22:05:36Z",
+  "tag_name": "v59",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v59",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v59"
+}

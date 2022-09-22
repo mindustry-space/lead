@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed a few multithreading crashes\r\n- Fixed bug where swiping behind UI would sometimes place blocks (Android)\r\n- Fixed server crash with web clients\r\n- Fixed some problems with random kicking on servers\r\n- Changed file browser to sort files without considering case\r\n- Fixed random deaths on block collisions (Desktop)\r\n- Made chat scrollable (Desktop) (Thanks to @iczero )\r\n- Added absolutely nothing else",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v36",
+  "id": 10347452,
+  "name": "3.5 Build 36",
+  "prerelease": false,
+  "published_at": "2018-04-01T19:01:57Z",
+  "tag_name": "v36",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v36",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v36"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v99/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 15771742,
+      "name": "Mindustry.jar",
+      "size": 44040407
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v99/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 15771743,
+      "name": "server-release.jar",
+      "size": 4190220
+    }
+  ],
+  "body": "- Added mod dependency system\n- Added mod block scrollbar\n- Added plastanium walls [Contributed by @Quezler]\n- Added toggling of power node connections by clicking [Contributed by @Quezler]\n- Added automatic discovery of saves in save folder\n- Made save system use file names instead of 'slots'\n- Lots of bugs fixed",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v99",
+  "id": 21012036,
+  "name": "5.0 Build 99",
+  "prerelease": false,
+  "published_at": "2019-10-28T03:40:02Z",
+  "tag_name": "v99",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v99",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v99"
+}

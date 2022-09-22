@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "Only a few days left until stable 6.0 release now. The campaign should now be playable; I've done a playthrough and fixed all the bugs and irregularities I encountered.\r\n\r\nAside from internal modding API changes and potential bugfixes, 6.0 should not have any more additions.\r\n\r\n- Added basalt boulder decoration block\r\n- Added hint about generator use & power transfer\r\n- Added hotkeys for planet map & research [Desktop]\r\n- Made power node placement smarter\r\n- Fixed color codes appearing in logs [Server]\r\n- Fixed schematics dialog showing menu on ESC [Desktop]\r\n- Made projector lights fade smoothly to prevent rapid flashing during power outages\r\n- Buffed Lancer turret\r\n\r\nCampaign: \r\n- Made Windswept Islands slightly harder\r\n- Fixed damage calculation algorithm completely destroying bases even at low damage % (if your sector was annihilated while you weren't looking, now you know why)\r\n- Fixed enemy bases having incorrect walls\r\n- Fixed slag puddles staying after sector is lost\r\n- Fixed sectors being completely intact after defeat and re-launch\r\n- Fixed sectors getting negative resources due to unloaders\r\n- Fixed sector broken blocks being cleared after defeat\r\n- Fixed preset sectors not auto-unlocking\r\n- Fixed plastanium not appearing on tech tree\r\n- Reduced high-tier wave unit appearance\r\n- Reduced enemy base difficulty scaling\r\n- Reduced invasion chance\r\n- Added hints about guardians and armor\r\n- Added descriptions to sectors that didn't have them\r\n- Made Salt Flats significantly less difficult\r\n- Made base building AI less difficult",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v117",
+  "id": 34389305,
+  "name": "6.0 Build 117 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-24T23:22:24Z",
+  "tag_name": "v117",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v117",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v117"
+}

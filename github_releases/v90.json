@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v90/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 14544473,
+      "name": "Mindustry.jar",
+      "size": 40629399
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v90/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14544474,
+      "name": "server-release.jar",
+      "size": 3946878
+    }
+  ],
+  "body": "- Many translations updated\n- New networking library implemented\n- Fixed game track ending abruptly\n- Fixed mirror filter not being usable in map generation\n- Fixed Windows32 version not launching (most likely)\n- Fixed map filter corruption\n- Added fallback shield shader for failed compilation",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v90",
+  "id": 19507259,
+  "name": "4.0 Build 90",
+  "prerelease": false,
+  "published_at": "2019-08-23T22:23:59Z",
+  "tag_name": "v90",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v90",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v90"
+}

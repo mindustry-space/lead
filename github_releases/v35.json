@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed occasional crash when placing teleporters while paused\r\n- Fixed some bugs with placing under UI (Android)\r\n- Fixed area delete glitching out when a block is selected with insufficient resources (Android)\r\n- Fixed sometimes placing two blocks where only one should be placed (Desktop)\r\n- Fixed 'port in use' error on gameovers (Server)\r\n- Added new cursor styles (Desktop)\r\n- Added additional persistent information about players by ID (Server)\r\n- Added information text for hosting and joining games\r\n- Added a 30-second cooldown for players after being kicked\r\n- Added a list of relevant links in the information dialog\r\n- Added ukranian language\r\n- Added info button for gamemodes (thanks to @rangzen)\r\n- Added chat history (Desktop, thanks to @iczero )\r\n- New main menu background and layout\r\n- Internal changes to help prevent hacking",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v35",
+  "id": 10244548,
+  "name": "3.5 Build 35",
+  "prerelease": false,
+  "published_at": "2018-03-24T18:36:34Z",
+  "tag_name": "v35",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v35",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v35"
+}

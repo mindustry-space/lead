@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v106/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 26110683,
+      "name": "Mindustry.jar",
+      "size": 59405252
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v106/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 26110686,
+      "name": "server-release.jar",
+      "size": 8926852
+    }
+  ],
+  "body": "- Fixed some bugs\r\n- Didn't fix some other bugs\r\n- Added 6 new units to fill in missing T4/5 upgrades\r\n- Added unit outlines for visual clarity, may remove later\r\n- Added mud floor (Contributed by ThePlayerA)\r\n- Added research costs to units in tech tree\r\n- Added ability to replace small walls with bigger ones directly\r\n- Added launch pad destination selection (barely tested)\r\n- Added team colors for storage blocks (Contributed by Voz-Duh)\r\n- Added // integer division logic operator (Contributed by DeltaNedas)\r\n- Balancing of various blocks/units based on feedback\r\n- Made unit factories/reconstructors able to produce even when unit limit is reached\r\n- Reworked unit limit system to kill units immediately instead of deactivating\r\n- Made sector resources be hidden until explored\r\n- Probably some other stuff I missed, check the commit log if you want details",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v106",
+  "id": 31728606,
+  "name": "6.0 Build 106 - Alpha",
+  "prerelease": true,
+  "published_at": "2020-09-23T22:40:16Z",
+  "tag_name": "v106",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v106",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v106"
+}

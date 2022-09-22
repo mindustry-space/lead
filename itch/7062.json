@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>Implemented game saving on all platforms except HTML5</li><li>Added packaged versions (Java is no longer required to run desktop versions) -- Untested! Please report any problems.</li><li>Various bugfixes</li></ul>",
+  "published_at": "2017-08-09 16:24:42",
+  "title": "1.4",
+  "uploads": [
+    {
+      "date": "09 August 2017 @ 16:02",
+      "name": "mindustry-android-1.4.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    },
+    {
+      "date": "09 August 2017 @ 16:03",
+      "name": "Mindustry-mac-1.4.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "09 August 2017 @ 16:03",
+      "name": "Mindustry-linux64-1.4.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "09 August 2017 @ 16:03",
+      "name": "Mindustry-windows64-1.4.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/7062/14"
+}

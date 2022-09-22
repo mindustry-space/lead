@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v130.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 43107056,
+      "name": "Mindustry.jar",
+      "size": 66014284
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v130.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 43107059,
+      "name": "server-release.jar",
+      "size": 7112576
+    }
+  ],
+  "body": "- Fixed logic being able to build invalid blocks\n- Fixed crash in text fields when [[ is typed\n- Fixed smelters not producing sound\n- Fixed modded naval units with boosters exhibiting buggy behavior\n- Fixed ground unit floor speed multiplier being squared\n- Moved Minke ability to Oxynoe, buffed Minke\n- Made tile attribute display more consistent; now displays boosts for entire block\n- Allowed building blocks that host doesn't have unlocked in campaign again\n- Allowed logic units to drop items with @air as a target\n- Optimized memory allocation of collisions\n- Added core database & schematics to main menu [Desktop]\n- Added max spawn field to wave editor\n- Added \"units created\" game stat\n- Added unit 'decal' system for mods; draw arbitrary sprites on top/below units\n- Made 'block info' keybind work for hovered blocks [Desktop]\n- Improved wave editor UI (Contributed by @TranquillyUnpleasant)\n- API: deprecated Unit#realSpeed(), use speed() instead",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v130.1",
+  "id": 48302833,
+  "name": "7.0 Build 130.1 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-08-23T18:54:21Z",
+  "tag_name": "v130.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v130.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v130.1"
+}

@@ -1,0 +1,58 @@
+{
+  "body": "<p><em>This release&apos;s focus is on moderation and preventing griefing&#xa0;on servers.</em></p>\r\n<p>- Added banning<br>- Added server admin support<br>- Added player anti-grief information tracing<br>- Added more information to server ping info<br>- Fixed hackers being able to place blocks without verification<br>- Fixed some hacker-induced server crashes<br>- Fixed many normal crashes<br>- Fixed a batch of multiplayer bugs</p>",
+  "published_at": "2018-02-28 00:17:37",
+  "title": "3.4",
+  "uploads": [
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-android-3.4-release-29.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "19 MB"
+    },
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-linux64-3.4-release-29.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "51 MB"
+    },
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-mac-3.4-release-29.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-server-3.4-release-29.jar",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "size": "20 MB"
+    },
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-windows32-3.4-release-29.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "54 MB"
+    },
+    {
+      "date": "28 February 2018 @ 00:03",
+      "name": "Mindustry-windows64-3.4-release-29.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "49 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/25635/34"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v130/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 42574462,
+      "name": "Mindustry.jar",
+      "size": 65975624
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v130/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 42574464,
+      "name": "server-release.jar",
+      "size": 7111560
+    }
+  ],
+  "body": "- Fixed cores in core capture mode getting destroyed instead of replaced client-side\n- Fixed water appearing as a block in pump info UI\n- Fixed minimap not updating when a building's team changes\n- Fixed aegires core capture making core neutral\n- Fixed sectors being able to export more than they import + produce, indefinitely\n- Fixed sector export/import lines curving through planet\n- Fixed plastanium walls in older saves having more than 100% health\n- Fixed hints appearing during opening launch scene\n- Fixed liquid extractor bar always being displayed as 100% full even with low power\n- Fixed certain sectors not spawning any waves\n- Fixed players getting stuck in units upon simultaneous control on servers\n- Fixed many various soft keyboard bugs [Android]\n- Cleaned up heat sprites for all turrets\n- Significantly increased payload propulsion tower range\n- Decreased cultivator water requirements slightly\n- Made batteries display a formatted amount of power stored\n- Made cultivators consume a constant amount of water, even when on spore blocks\n- Made player-team flare & horizon AI stop and attack first target on path to core\n- Made zenith AI shoot when passing targets en route to core\n- Misc ammo rebalancing\n- Removed pointless 'device' switcher in controls dialog\n- Added 'banned units' rule\n- Added holographic icons above unit payloads that appear when their upgrade is banned or not researched\n- Added search bar to database\n- Added team-specific rules & AI\n- Added a progress bar for world data\n- Added a list of occupied sectors & their status to planet dialog\n- Changed derelict team icon\n- Made banned units/blocks appear crossed out in core database\n- Allowed dumping/moving into payload voids",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v130",
+  "id": 47924630,
+  "name": "7.0 Build 130 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-08-16T17:23:54Z",
+  "tag_name": "v130",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v130",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v130"
+}

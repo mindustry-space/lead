@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v63/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9920237,
+      "name": "desktop-release.jar",
+      "size": 18223701
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v63/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9920246,
+      "name": "server-release.jar",
+      "size": 8985601
+    }
+  ],
+  "body": "time for another hotfix\r\nyay\r\n\r\n- Fixed 'ghost connection' bug occurring on map resets and disconnects (probably)\r\n- Fixed ground waves always spawning in bottom left corner regardless of obstacles\r\n- Fixed top wave/mission menu not collapsing properly\r\n- Fixed random \"{1}\" text being displayed for outdated servers\r\n- Fixed many various UI layout issues\r\n- Fixed mobile recipe selection swap\r\n- Added text input copy-paste buttons [Mobile]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v63",
+  "id": 14269018,
+  "name": "v4 Build 63 - Alpha",
+  "prerelease": false,
+  "published_at": "2018-11-29T22:04:50Z",
+  "tag_name": "v63",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v63",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v63"
+}

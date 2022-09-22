@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v134/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 48001424,
+      "name": "Mindustry.jar",
+      "size": 59993345
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v134/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 48001426,
+      "name": "server-release.jar",
+      "size": 7226643
+    }
+  ],
+  "body": "- Fixed leg units using ground unit pathfinding\n- Fixed some payload-related crashes\n- Fixed all ground waves on Serpulo being replaced by flying units\n- Fixed host not being able to make other users admin locally\n- Fixed payload constructor blocks sharing the same scroll bar position\n- Fixed a pixelation-related crash\n- Fixed plastanium conveyors having infinite capacity when loaded\n- Minor tweaks to copper requirements of certain blocks\n- Made turrets payload-loadable\n- Payload blocks now draw and update on conveyors; this allows for functional moving turrets\n- Added saved games search & improved map search filters (Contributed by @TranquillyUnpleasant)\n- New unloader implementation; more reliable & better at balancing items across blocks (Contributed by @hortiSquash)",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v134",
+  "id": 52156193,
+  "name": "7.0 Build 134 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-10-27T15:56:01Z",
+  "tag_name": "v134",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v134",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v134"
+}

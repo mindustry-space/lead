@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v116/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28642196,
+      "name": "Mindustry.jar",
+      "size": 72122757
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v116/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28642200,
+      "name": "server-release.jar",
+      "size": 9030186
+    }
+  ],
+  "body": "- Added tutorial hints (Can be disabled in settings)\r\n- Fixed game crashing on systems without audio devices\r\n- Removed game startup dialog\r\n- Campaign: Balancing of certain preset sectors\r\n- Campaign: Made attacks less frequent\r\n- Campaign: Shifted AI bases toward poles\r\n- Campaign: Increased resource quantities near poles\r\n- Campaign: Fixed sectors being accessible after defeat\r\n- Campaign: Fixed AI builders sometimes blocking ground unit paths\r\n- Campaign: Other miscellaneous bugfixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v116",
+  "id": 34287410,
+  "name": "6.0 Build 116 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-22T22:25:55Z",
+  "tag_name": "v116",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v116",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v116"
+}

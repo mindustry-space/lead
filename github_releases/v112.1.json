@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v112.1/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 27867047,
+      "name": "Mindustry.jar",
+      "size": 62747665
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v112.1/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 27867049,
+      "name": "server-release.jar",
+      "size": 8627864
+    }
+  ],
+  "body": "- Fixed meltdowns settings themselves on fire\r\n- Added memory counter to FPS display\r\n- Added button to export crash logs",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v112.1",
+  "id": 33381754,
+  "name": "6.0 Build 112.1 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-03T02:04:51Z",
+  "tag_name": "v112.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v112.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v112.1"
+}

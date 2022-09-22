@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v67/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11693935,
+      "name": "desktop-release.jar",
+      "size": 21469769
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v67/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11693936,
+      "name": "server-release.jar",
+      "size": 3546279
+    }
+  ],
+  "body": "- Fixed many various editor and in-game crashes\r\n- Fixed Desolate Rift not having any enemy spawn points\r\n- Fixed non-rotateable blocks having a rotation arrow when placing [Mobile]\r\n- Fixed rotation arrow not matching line orientation [Mobile]\r\n- Fixed ores on sand not being mine-able\r\n- Fixed conveyors not displaying correct item speed\r\n- Moved launch button to top right corner of screen\r\n- Added new icon\r\n- Added executable icon [Windows]\r\n- Added tainted water block\r\n- Added setting for disabling shadows\r\n- Added \"launched items\" text to item display for less confusion\r\n- Possible fix for incorrect \"openGL 2.0 missing\" errors [Windows]\r\n- Possible crash fix for devices that support only 1024x1024 textures\r\n- More attempts to fix menu bug (why)\r\n\r\niOS build is coming soon.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v67",
+  "id": 16303486,
+  "name": "v4 Build 67 - Beta",
+  "prerelease": false,
+  "published_at": "2019-03-23T18:00:34Z",
+  "tag_name": "v67",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v67",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v67"
+}

@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "Beta.\r\n\r\n- fixed and unfixed innumerable bugs\r\n- added new graphics, still unfinished\r\n- added new zone system to replace sectors\r\n- added tech tree\r\n- add new crafting blocks\r\n- added new resources for old ones\r\n- added new units, boss waves (no factories for any of them yet)\r\n- added unit factory limit\r\n- added core tiers (now 3/4/5 blocks in size)\r\n- added titanium walls\r\n- added spray tool in editor\r\n- added many new environment blocks\r\n- added basic game statistics after game-overs\r\n- added new bar/consumption display when hovering over blocks\r\n- added new 'attack' mode with objective to destroy enemy core\r\n- added back 'wall' blocks\r\n- added player self-destruct timer for map edges\r\n- balancing\r\n- new power system implemented by @Timmeey86 and @baltitenger \r\n- disassociated any unlocks from custom games\r\n- performance improvements for some devices\r\n- removed fog-of-war\r\n- removed storage chaining due to dangerous snake activity\r\n- removed minimap, will come back in a later release if it behaves this time\r\n- removed stone, lava, dense alloy\r\n- removed command center, shifting away from RTS style\r\n- removed elevation\r\n- removed hard map border limit\r\n- removed 'text.' prefix in bundles\r\n- removed carrying units (for now)\r\n- made selectable blocks like sorter auto-hide after click\r\n- made waves skippable when no enemies present\r\n- switched to custom game framework based off of libGDX\r\n- many internal changes most people won't notice\r\n- tau mech repair targeting [Mobile]\r\n- auto-creation of map directory [Server]\r\n\r\nKnown issues:\r\n- random death after going in a pad\r\n- invisible players\r\n- many sprites are distorted\r\n- conveyors behave very strangely\r\n\r\nUnfinished things:\r\n- oil is now quite useless and needs balancing\r\n- better zone progression\r\n- tech tree layout and style\r\n- stats for turret ammo\r\n- freebuild is missing\r\n- conveyor optimization\r\n\r\nExpect the usual flood of bugfix updates after this. I'll wait at least a day to collect crash reports.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v64",
+  "id": 15930538,
+  "name": "v4 Build 64 - Beta",
+  "prerelease": false,
+  "published_at": "2019-03-05T21:20:26Z",
+  "tag_name": "v64",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v64",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v64"
+}

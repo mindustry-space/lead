@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v80/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 13353598,
+      "name": "server-release.jar",
+      "size": 3687287
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v80/desktop-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 13353643,
+      "name": "desktop-release.jar",
+      "size": 22539476
+    }
+  ],
+  "body": "- Improved local network server discovery\r\n- Simplified Ground Zero and Craters maps [WIP]\r\n- Split drones into 3 separate roles: mining, repairing, and building [WIP]\r\n- Possible fix to some UI layout bugs\r\n- Added unit pads to tech tree\r\n- Added in-game editor multiplayer\r\n- Added editor tool modes, accessed by right-clicking a tool [Desktop] or double-tapping it [Mobile]\r\n- Added repulsion zone around map edges\r\n- Turret balancing\r\n- Formatted wave timer to display in minutes\r\n- Made advanced unit pads much cheaper\r\n- Updated sprites for turrets and many other blocks\r\n- Removed unit editor until further notice\r\n- Removed difficulty in favor of rule editing\r\n- Removed self-destruct timer\r\n- Fixed block deconstruction exploit\r\n- Fixed door toggling not updating pathfinding\r\n- Fixed players sometimes becoming \"orbs of light\" [Mobile]\r\n- Fixed blocks and units appearing black after game quit [Mobile]\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v80",
+  "id": 18106132,
+  "name": "v4 Build 80 - Beta",
+  "prerelease": false,
+  "published_at": "2019-06-19T22:34:02Z",
+  "tag_name": "v80",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v80",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v80"
+}

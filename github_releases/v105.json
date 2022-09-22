@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v105/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 25718653,
+      "name": "Mindustry.jar",
+      "size": 57609086
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v105/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 25718696,
+      "name": "server-release.jar",
+      "size": 8804666
+    }
+  ],
+  "body": "This is the first alpha release of 6.0, a massive campaign and content update. \r\nWhile this build has been tested in multiplayer, it still may have numerous issues. As usual, report problems on Github.\r\n\r\nThere are too many changes to list here, but the important bits include:\r\n\r\n- A new unit production system, with incremental upgrades\r\n- Direct unit and turret control\r\n- Renamed and re-sprited units\r\n- New blocks and units\r\n- Naval and insect-like units\r\n- Programmable logic systems\r\n- Weather\r\n- New campaign system (unfinished, barely functional)\r\n- New tech tree system\r\n- Many QoL changes\r\n- Balancing",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v105",
+  "id": 31364116,
+  "name": "6.0 Build 105 - Alpha",
+  "prerelease": true,
+  "published_at": "2020-09-15T23:59:44Z",
+  "tag_name": "v105",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v105",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v105"
+}

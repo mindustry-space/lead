@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.2/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29009719,
+      "name": "Mindustry.jar",
+      "size": 72275102
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120.2/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29009720,
+      "name": "server-release.jar",
+      "size": 9047443
+    }
+  ],
+  "body": "Yeah, it's another hotfix. I missed these during earlier testing.\n\n- Fixed research deadlock caused by blocks requiring optional inputs as research\n- Possible fix for \"Unsupported combination of formats\" startup error",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120.2",
+  "id": 34663296,
+  "name": "6.0 Build 120.2 ",
+  "prerelease": false,
+  "published_at": "2020-12-02T00:27:46Z",
+  "tag_name": "v120.2",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120.2",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120.2"
+}

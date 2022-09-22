@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29214600,
+      "name": "Mindustry.jar",
+      "size": 72292965
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29214601,
+      "name": "server-release.jar",
+      "size": 9054401
+    }
+  ],
+  "body": "- Fixed rebuilding a core near vault causing resources to drop to 1K\n- Fixed captured sectors getting locked\n\nCampaign multiplayer changes:\n\n- New host research is now carried over to clients\n- Clients can now use their research even if the host doesn't have it\n- Clients can now research new tech in multiplayer\n- Clients will now receive a copy of resources produced in the current sector, distributed across their sectors\n- Added a hint that explains this information",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v121",
+  "id": 34896173,
+  "name": "6.0 Build 121 ",
+  "prerelease": false,
+  "published_at": "2020-12-06T14:40:29Z",
+  "tag_name": "v121",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v121",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v121"
+}

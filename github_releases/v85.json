@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v85/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14360862,
+      "name": "desktop-release.jar",
+      "size": 43354742
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v85/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 14361183,
+      "name": "server-release.jar",
+      "size": 4238879
+    }
+  ],
+  "body": "This is the *first* release candidate for 4.0, with the final release coming in 3 days. No new features will be added until then.\r\n\r\n- Added new sounds for many various actions\r\n- Added random in-game music\r\n- Added startup tutorial\r\n- Added new icon\r\n- Added option to transfer 3.5 progress to home folder\r\n- Added new power node UI visuals\r\n- Updated Discord rich presence [Desktop]\r\n- Possible sound lag fix [Android]\r\n- Possible startup fail fix [Windows]\r\n- Improved node autolinking\r\n- Fixed node place crash\r\n- Fixed every attack map having infinite red team resources\r\n- Attack mode balancing\r\n- Zone map balancing",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v85",
+  "id": 19269139,
+  "name": "4.0 Build 85 - RC 1",
+  "prerelease": false,
+  "published_at": "2019-08-13T21:06:54Z",
+  "tag_name": "v85",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v85",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v85"
+}

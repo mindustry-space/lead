@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v108/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 26949305,
+      "name": "Mindustry.jar",
+      "size": 62413410
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v108/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 26949309,
+      "name": "server-release.jar",
+      "size": 8481997
+    }
+  ],
+  "body": "Mindustry 6.0 is now in beta. This means most mechanics outside of the campaign have been more or less finalized. Any significant new content is unlikely to be added.\r\n\r\n- Added Foreshadow turret\r\n- Added Tsunami turret (initial implementation by Slava0135, sprite by EyeOfDarkness)\r\n- Added logic unit control system\r\n- Added space floor block\r\n- Added button to center map to editor\r\n- Added rule setting for enemy lights\r\n- Added block \"last accessed by\" info (not saved, resets after relogin)\r\n- Better block replacement - conveyors retain items\r\n- Universal command system - all units can now command smaller units of similar type\r\n- Changed default wave layout for built-in maps to be harder\r\n- Changed armored conduits to not leak\r\n- Changed Spectre turret to pierce targets with certain ammo\r\n- Improved cliff sprites for maps that have them\r\n- Mobile control changes (double tap to control, hold to drop/pickup)\r\n- Mobile manual aiming control (hold location to shoot manually)\r\n- Campaign: Random ruins with scrap generation\r\n- Campaign: Tar, basalt & hotrock generation\r\n- Campaign: Removed turn end popup\r\n- Campaign: Procedurally generated waves based on difficulty\r\n- Campaign: Made core incinerate items when full to prevent locking of production counter\r\n- Campaign: Minor tech tree tweaks\r\n- Campaign: Removed \"capture\" of sectors and sector damage, waves are infinite until a better attack system is implemented\r\n- Campaign: Removed references to \"turns\"; items/production update every 1-2 minutes now",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v108",
+  "id": 32534068,
+  "name": "6.0 Build 108 - Beta",
+  "prerelease": true,
+  "published_at": "2020-10-13T22:30:21Z",
+  "tag_name": "v108",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v108",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v108"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 41218096,
+      "name": "Mindustry.jar",
+      "size": 65324533
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v129/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 41218100,
+      "name": "server-release.jar",
+      "size": 7086615
+    }
+  ],
+  "body": "- Fixed payload sources not being deactivated correctly\r\n- Fixed player autotargeting units that cannot be hit [Mobile]\r\n- Fixed inconsistent & jittery arrow animations for all bridge blocks\r\n- Fixed screenshake permanently moving camera position when panning\r\n- Fixed bullet heal percent being displayed as 0 when <1\r\n- Fixed packet error occurring on core capture\r\n- Fixed editor brush slider being displayed below text\r\n- Fixed generators not saving item consumption cooldowns\r\n- Fixed units not being able to build when core is empty and the build cost multiplier makes a block free\r\n- Mods: Fixed JSON mass drivers not having a default bullet set\r\n- Mods: Deprecated ExtendingItemBridge / LiquidExtendingBridge; use ItemBridge/LiquidBridge instead\r\n- Removed \"extension\" animation for item/liquid bridges\r\n- Removed mend projector orange phase tint (was too similar to overdrive projector)\r\n- Removed mouse&keyboard option, it was never actually implemented [iOS]\r\n- Removed block flow rate option - there is little reason to turn it off\r\n- Made certain units with payloads automatically drop them near targets\r\n- Logic: Fixed jump instructions not copying destination\r\n- Made drill/extractor shading more realistic when rotating (Contributed by @sk7725)\r\n- Minor tweaks to blast/laser drill spinner sprite\r\n- Tweaks to thermal generator & coal centrifuge effects\r\n- Improved UI slider appearance\r\n- Steam: Renamed misleading \"Local Servers\" section to \"Open Games & Local Servers\"\r\n- Tweaked block plan skip algorithm to reduce switching (Contributed by @buthed010203)\r\n- Allowed mining of sand with double-click-to-mine enabled (Contributed by @buthed010203)\r\n- Launch pads can now be disabled (but not individually!)\r\n- Allowed pickup of derelict blocks\r\n- Increased shale oil yield\r\n- Made containers/vaults explode significantly less violently when linked to core - should not be a liability anymore\r\n- Added new core landing animation\r\n- Added new core launch animation for campaign\r\n- Added graphics option to skip all launch/landing animations\r\n- Added hint explaining derelict block mechanics\r\n- Added tooltips for certain settings\r\n- Added descriptions for new content\r\n- Added display of fragmentation bullet stats\r\n- Added sector import statistics\r\n- Added approximate range circle when placing illuminators\r\n- Added Call methods to play sounds on clients from servers\r\n\r\nFlying unit AI has been improved:\r\n- For AI teams, flying units will now correctly prioritize certain types of structures when attacking\r\n- Eclipse prioritizes reactors, Antumbra prioritizes generators, horizon targets factories, etc\r\n- Higher-tier flying units will no longer stop at \"irrelevant\" targets like walls or turrets\r\n- For player teams, flying units will move straight to the enemy core\r\n- This behavior aims to be more consistent with ground unit AI\r\n\r\nThe unit ammo system/rule has been redesigned:\r\n- Removed resupply point block\r\n- Made units resupply items from containers, vaults and cores, to be more consistent with power ammo\r\n- Assigned different ammo items to many units\r\n- Oct no longer acts as a mobile resupply point, as it cannot reasonably carry all different ammo types at once\r\n- Mods: AmmoType is now an interface, and the AmmoTypes class has been removed. Create new Item/PowerAmmoType instances instead.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v129",
+  "id": 46935807,
+  "name": "7.0 Build 129 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-07-28T21:34:49Z",
+  "tag_name": "v129",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v129",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v129"
+}

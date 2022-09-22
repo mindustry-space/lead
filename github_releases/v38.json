@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "This will be the last release until 4.0!\r\n\r\n- Fixed crash caused by tesla orbs while multithreading\r\n- Fixed autosaves not updating display time or other information in save menu\r\n- Fixed junctions clogging when backwards input is recieved\r\n- Fixed crash with 'bans' command (Server)\r\n- Fixed UUIDs being non-unique for certain players (Desktop)\r\n- Fixed not being able to pan with an invalid recipe selected (Android)\r\n- Fixed sliders being unusable in scroll panes\r\n- Fixed shoot-kick system being too trigger happy (Server)\r\n- Made save system load backups when files are found to be corrupted (Some corrupted saves might be usable now)\r\n- Added infinite build reach in sandbox (Desktop)\r\n- Added 'griefer' command to see probably griefers (Server)\r\n- Added option to pass and run comma-separated commands when launching (Server)\r\n- Added placement preview (Thanks to @Commodore64x, @Sonnicon, @TheChosenEvilOne)\r\n- Changed titan/chain turret sprites to be more colorful",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v38",
+  "id": 10658742,
+  "name": "3.5 Build 38",
+  "prerelease": false,
+  "published_at": "2018-04-21T22:23:16Z",
+  "tag_name": "v38",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v38",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v38"
+}

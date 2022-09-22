@@ -1,0 +1,40 @@
+{
+  "body": "<p><br></p>\r\n<ul><li>Added an interactive tutorial; removed the dialog box on first startup</li><li>(hopefully) Fixed a bug where game crashed on HTML5 when no local storage was available</li><li>Internal re-structuring</li></ul>\r\n<p>Not much new in this update, but now that the tutorial is done, I can focus on more interesting things, like new maps.</p>",
+  "published_at": "2017-10-14 23:21:37",
+  "title": "2.3",
+  "uploads": [
+    {
+      "date": "14 October 2017 @ 21:05",
+      "name": "Mindustry-mac-2.3.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "14 October 2017 @ 21:05",
+      "name": "Mindustry-linux64-2.3.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "14 October 2017 @ 21:05",
+      "name": "Mindustry-windows64-2.3.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "14 October 2017 @ 23:14",
+      "name": "Mindustry-android-2.3.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/12483/23"
+}

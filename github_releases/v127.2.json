@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127.2/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 39498557,
+      "name": "Mindustry.jar",
+      "size": 66010474
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127.2/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 39498559,
+      "name": "server-release.jar",
+      "size": 7099215
+    }
+  ],
+  "body": "- Fixed derelict cores preventing PvP game-over\n- Fixed Java mods not loading classes correctly\n- Fixed liquid turrets not targeting closest fire\n- Fixed payload routers not distributing evenly between two conveyors\n- Made units target & move toward derelict cores in capture mode\n- Made falling wrecks killable\n- Nerfed repair turrets\n- Buffed Eclipse, Mace",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v127.2",
+  "id": 45508251,
+  "name": "7.0 Build 127.2 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-06-30T17:29:44Z",
+  "tag_name": "v127.2",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v127.2",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v127.2"
+}

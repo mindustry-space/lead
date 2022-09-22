@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v79/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13099857,
+      "name": "desktop-release.jar",
+      "size": 23055690
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v79/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13099858,
+      "name": "server-release.jar",
+      "size": 3679366
+    }
+  ],
+  "body": "- Fixed player spawning alive and on red team in certain maps\r\n- Fixed black/missing textures after game exit and return [Mobile]\r\n- Fixed server not maintaining correct gamemode after game-over\r\n- Fixed meltdown not being able to hit some blocks\r\n- Fixed client state not resetting after gameover on server\r\n- Fixed units being inaccurate when firing at objects while moving\r\n- Fixed player being able to enter two pads at once\r\n- Fixed overflow gate being slower than usual\r\n- Added quit button [Mobile]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v79",
+  "id": 17868266,
+  "name": "v4 Build 79 - Beta - Hotfix",
+  "prerelease": false,
+  "published_at": "2019-06-08T14:55:07Z",
+  "tag_name": "v79",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v79",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v79"
+}

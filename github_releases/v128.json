@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v128/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 40166309,
+      "name": "Mindustry.jar",
+      "size": 65132810
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v128/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 40166316,
+      "name": "server-release.jar",
+      "size": 7103141
+    }
+  ],
+  "body": "- Fixed crash when mods override 9-patches with normal sprites\n- Fixed bullets shot on servers not retaining remote unit velocity\n- Fixed misleading incinerator block status\n- Fixed logic polygons overdrawing triangles\n- Fixed votekicks not tracing user IPs\n- Fixed mod sprite packer not allowing subfolders in page-specific sprite folders\n- Fixed all HTTP-related requests not working [Mac]\n- Fixed Java mods with default interfaces not loading [Android]\n- Fixed Java mod files not being imported correctly [Android]\n- Fixed icons being offset on buttons at high UI scale\n- Notable API change: Removed Core.net, use the arc.util.Http class instead\n- Decreased Disassembler cost\n- Increased Fortress health & base damage\n- Slight Aegires healing nerf\n- Reorganized some settings\n- Improved settings & editor filter sliders\n- Made force projector \"decals\" team-colored\n- Made Navanax EMP explode on cursor\n- Made 3x3 blocks fit on payload conveyors\n- Made Separators less likely to desync (contributed by @Quezler)\n- Made status indicators only draw for same-team blocks\n- Merged all whitelist commands into one [Server]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v128",
+  "id": 46078927,
+  "name": "7.0 Build 128 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-07-12T19:41:14Z",
+  "tag_name": "v128",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v128",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v128"
+}

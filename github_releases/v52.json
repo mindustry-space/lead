@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed crash related to using color codes in chat\r\n- Fixed cryllic characters not being displayed in chat\r\n- Fixed a few crashes\r\n- Fixed friendly units dropping random items on death\r\n- Fixed ore blocks not using localized item names\r\n- Fixed controls not displaying their localized names [Desktop]\r\n- Improved Discord rich presence text [Desktop]\r\n- Various translation bundles updated\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v52",
+  "id": 12458755,
+  "name": "4.0 Build 52 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-08-17T17:14:15Z",
+  "tag_name": "v52",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v52",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v52"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v107/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 26298997,
+      "name": "Mindustry.jar",
+      "size": 59014002
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v107/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 26298998,
+      "name": "server-release.jar",
+      "size": 8405282
+    }
+  ],
+  "body": "This is a small update. Not much new content, mostly bugfixes.\r\nThe next planned update will focus on the campaign, and will likely take much longer.\r\n\r\n- Bugfixes\r\n- Added team color for command center (Contributed by Voz-Duh)\r\n- Cleaned up certain sprites to match V6 style (Partially contributed by Voz-Duh)\r\n- Added support for Java-based mods on Android (mostly undocumented for now)\r\n- Added 2x2 high capacity memory bank for logic processors\r\n- Added IP-based votekick verification\r\n- Added light to slag\r\n- Various small tweaks to the logic system\r\n- Added new radar options to logic system (Contributed by LeoDog896)\r\n- Unit outline tweaks\r\n- New physics system; should be faster and does not require Box2D libraries\r\n- Made certain units use power from batteries as ammo when rule is enabled\r\n- Balancing",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v107",
+  "id": 31910502,
+  "name": "6.0 Build 107 - Alpha",
+  "prerelease": true,
+  "published_at": "2020-09-28T23:45:21Z",
+  "tag_name": "v107",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v107",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v107"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v104/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 17960044,
+      "name": "Mindustry.jar",
+      "size": 48709157
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v104/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 17960045,
+      "name": "server-release.jar",
+      "size": 5544835
+    }
+  ],
+  "body": "- Fixed incorrect line numbers in script errors\n- Fixed black screen caused by bloom on some devices\n- Fixed some music issues with sound playing at 0% [Android]\n- Fixed client IDs resetting\n- Fixed data resetting between specific versions [Android]\n- Added server categories (Partially contributed by @Quezler)\n- Added rich presence support (Contributed by @danieljennings) [Steam]\n- Added require() function for scripts (Contributed by @DeltaNedas)\n- Added color gradient for battery status (Contributed by @Arkanic (eventually))\n- Changed script loading: For mods with more than one script file, the main file must be named \"main.js\" and must require() other files to run them\n- Optimized and cleaned up conveyors\n- Made unloaders take items from blocks in equal amounts\n- Tweaked power block palette\n- Slightly decreased differential generator resource usage\n- Changed differential generator sprite\n- Improved admin management commands [Server]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v104",
+  "id": 23586883,
+  "name": "5.0 Build 104",
+  "prerelease": false,
+  "published_at": "2020-02-11T23:08:06Z",
+  "tag_name": "v104",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v104",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v104"
+}

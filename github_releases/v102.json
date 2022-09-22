@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v102/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 17051352,
+      "name": "Mindustry.jar",
+      "size": 45330939
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v102/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 17051716,
+      "name": "server-release.jar",
+      "size": 5511289
+    }
+  ],
+  "body": "- Added new map view w/ panning and scrolling\r\n- Added controls to allow moving camera while paused or dead [Desktop]\r\n- Added block health rule\r\n- Added 'config' command for configuration [Server]\r\n- Added more internal teams for alternative gamemodes\r\n- Added features for improved server modding\r\n- Major internal change: package is now \"mindustry\" instead of \"io.anuke.mindustry\" (will break plugins)\r\n- Fixed scrollwheel failing to zoom randomly [Desktop]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v102",
+  "id": 22506620,
+  "name": "5.0 Build 102",
+  "prerelease": false,
+  "published_at": "2019-12-30T00:08:29Z",
+  "tag_name": "v102",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v102",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v102"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v132/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 47152987,
+      "name": "Mindustry.jar",
+      "size": 59971689
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v132/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 47152988,
+      "name": "server-release.jar",
+      "size": 7218008
+    }
+  ],
+  "body": "- Fixed tapping items in block inventories always requesting the whole stack\n- Added Constructor & Large Constructor for block creation; may be useful for item/liquid transport via payload mass drivers\n- Added 2x2 tank\n- Added payload loader & unloader\n- Added Deconstructor; converts a unit/block back into items at 100% efficiency\n- Added cryofluid tiles (Contributed by @TranquillyUnpleasant)\n- Added editor map search (Contributed by @TranquillyUnpleasant)\n- Added system for displaying backgrounds in map rules; currently can't be changed without mods/plugins\n- Added system for custom chat formatting in servers (see NetServer#chatFormatter)\n- Changed Retusa weapon to a naval torpedo\n- Made legged units able to drown when all legs are in deep water; buffed speed/damage to compensate\n- Made all large mechs able to drown (slowly) when surrounded by deep water\n- Made crawler explosions deal damage on death\n- Made certain shoot effects track unit rotation (Contributed by @MEEPofFaith)\n- Made sorter/gate output flips direction-dependent\n- Major changes to planet API; will break mods with planets\n- Increased surge alloy damage when exploded\n- Converted game soundtrack to ogg (-> smaller filesize)\n- Improved planet renderer water/ice reflections\n- Added clouds to Serpulo\n- Added naval waves to Serpulo\n- Improved Serpulo sector generation, especially when water is involved\n- Increased Desolate Rift difficulty slightly\n- Older generated maps made in the two new preset sectors are now auto-deleted\n- Logic: Made @tick/@time be synced; @tick no longer resets; @time is now @tick in ms instead of local client unix time\n- Logic: Synced random number generator state (note that this will still not fully fix RNG desyncs)\n- Logic: Added line numbers and jump line indicators\n- Logic: Added variable display dialog\n- Logic: Added unit command to enter payload blocks\n- Logic: Many various bugfixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v132",
+  "id": 51480806,
+  "name": "7.0 Build 132 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-10-16T19:33:15Z",
+  "tag_name": "v132",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v132",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v132"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v133/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 47215609,
+      "name": "Mindustry.jar",
+      "size": 61228527
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v133/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 47215621,
+      "name": "server-release.jar",
+      "size": 7153786
+    }
+  ],
+  "body": "While this version is technically network-compatible with 132, it has significant behavioral differences that warrant a new release. I would rather not see massive desyncs on outdated servers.\r\n\r\n- Fixed logic being able to control dead/removed units (e.g. into payload blocks)\r\n- Fixed deconstructors not checking unit payload size/etc (direct deconstruction was added hours before release and not tested properly)\r\n- Fixed deconstructors sometimes refunding slightly less than 100% of resources\r\n- Fixed constructor being able to create banned/invalid blocks\r\n- Fixed player units not disappearing when ctrl-clicked into payloads\r\n- Made payload loader only move out containers when >= 1 item is at full capacity\r\n- Added liquid container to tech tree",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v133",
+  "id": 51501255,
+  "name": "7.0 Build 133 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-10-17T19:38:16Z",
+  "tag_name": "v133",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v133",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v133"
+}

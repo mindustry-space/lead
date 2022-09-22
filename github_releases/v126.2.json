@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v126.2/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 34160716,
+      "name": "Mindustry.jar",
+      "size": 72294357
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v126.2/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 34160720,
+      "name": "server-release.jar",
+      "size": 7138625
+    }
+  ],
+  "body": "- Fixed bridges being planned without unlock in campaign\n- Fixed player moving slower on servers with status effects\n- Fixed player not respecting formation speed on servers\n- Fixed separators consuming power when idle\n- Fixed logic blocks not saving buildings on reload\n- Fixed rare door placement crash\n- Fixed logic units being able to take/remove items from any team block\n- Improved power node link preview\n- Reduced Nova range slightly\n- Added list of status effects to core database\n- Added status effect display to bullets (icons contributed by @sk7725)\n- Added block info keybind\n- Added bullet stats for continuous laser turrets (e.g. Meltdown)\n- Made bridges autolink when dragging multiple lines\n- Disabled logic unit building for servers by default\n- Made application terminate itself when exiting; may fix memory leaks [Android]\n- Internals: Removed all code for disposing resources on exit; this should be handled by the OS now\n- Logic: Made `dead` sensor return 1 for `null`, to simplify validity checks\n- Logic: New text parser; supports defining and jumping to labels with `name:` instead of numbers\n- Logic: Added support for negative draw coordinates\n- Logic: Disabled packets for config; may desync, but will help reduce lag\n- Campaign: Various tweaks to make background simulation more accurate",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v126.2",
+  "id": 40650325,
+  "name": "6.0 Build 126.2 ",
+  "prerelease": false,
+  "published_at": "2021-03-29T17:54:07Z",
+  "tag_name": "v126.2",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v126.2",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v126.2"
+}

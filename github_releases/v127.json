@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 39231344,
+      "name": "Mindustry.jar",
+      "size": 67205433
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v127/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 39231356,
+      "name": "server-release.jar",
+      "size": 7097594
+    }
+  ],
+  "body": "This is a highly incomplete version of v7. Most content planned for v7 is unfinished, and will not be included in this release!\r\n\r\nIdeally, this version should be more stable than 126, but without a release, I cannot say for certain.\r\nThe current \"stable\" version (126.2) contains severe bugs & balancing problems that have been addressed in this release. Due to these issues, I may have to split the v7 update into two different parts; whether or not such a split release happens at all depends on how long it takes me to finish the \"interplanetary\" v7 content.\r\n\r\nAndroid users: This version will NOT be available on Google Play - download the APK file directly from itch.io instead! I haven't set up the new Google Play listing yet.\r\n\r\niOS users: This version has been submitted to TestFlight, and should be available as soon as Apple approves it (ETA ~1 day).\r\n\r\nChangelog:\r\n\r\n- Countless bugfixes\r\n- Countless unit & turret balancing tweaks\r\n- Optimized fire visuals\r\n- Made mass driver output speed more FPS-independent\r\n- Made phase bridges overdriveable & more reliable at lower FPS values\r\n- Reorganized core items & guardian bar UI\r\n- Added red outline for guardian units\r\n- Added more options to editor filters\r\n- Added editor filter copy-paste buttons\r\n- Added display of current status effects to Ui\r\n- Added 5 new support naval units\r\n- Added payload void & source for sandbox\r\n- Added a payload mass driver equivalent\r\n- Added polygonal core protection rule\r\n- Added core-capture rule for PvP/attack maps\r\n- Added one experimental core-capture PvP map\r\n- Added lights for most effects & bullets\r\n- Added new T2 repair point\r\n- Added controls to deposit current unit into payload block directly\r\n- Added schematic tags\r\n- Added client-side \"ghost building\" sync when playing multiplayer\r\n- Campaign: Reorganized sector icon selector, added support for content sector icons\r\n- Updated packaged Java version to 16 [Desktop]\r\n- Made units unstackable in most situations\r\n- Mods: Support for loading classes from other JARs as dependencies\r\n- Mods: various API changes, see https://mindustrygame.github.io/wiki/modding/7-migrationv7/ for details\r\n- Logic: Added inverse trig operations\r\n- Logic: Added content ID lookup & wait instructions\r\n- Lots of other stuff I probably missed",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v127",
+  "id": 45251225,
+  "name": "7.0 Build 127 - Pre-Alpha",
+  "prerelease": true,
+  "published_at": "2021-06-25T17:52:20Z",
+  "tag_name": "v127",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v127",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v127"
+}

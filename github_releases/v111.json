@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v111/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 27516278,
+      "name": "Mindustry.jar",
+      "size": 62602418
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v111/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 27516279,
+      "name": "server-release.jar",
+      "size": 8618379
+    }
+  ],
+  "body": "- Fixed several issues related to the locate logic instruction\r\n- Fixed enemy water spawns not appearing\r\n- Fixed many various issues related to the campaign\r\n- Fixed player camera not resetting its position on new game\r\n- Fixed illuminator being unplaceable in campaign in daylight\r\n- Improved item sprites slightly\r\n- Balancing of campaign waves\r\n- Logic: Added configure instruction for controlling certain blocks\r\n- Logic: Added config parameter to unit build instruction\r\n- Removed multi-tile unit mining; each unit must mine on its own tile\r\n- Added extra starting items to ground zero\r\n- Added announcement of resources and name to campaign landing sequence\r\n- Added esc/back key hiding to many various dialogs\r\n- Added list of units produced to unit factory stats\r\n- Added option to disable auto-pausing the game in the background\r\n- Made batteries auto-connect to power networks",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v111",
+  "id": 33034799,
+  "name": "6.0 Build 111 - Beta",
+  "prerelease": true,
+  "published_at": "2020-10-25T21:46:35Z",
+  "tag_name": "v111",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v111",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v111"
+}

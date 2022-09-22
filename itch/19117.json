@@ -1,0 +1,40 @@
+{
+  "body": "<p>This release may also be unstable, due to the nature of content added.</p>\r\n<p>Changelog:</p>\r\n<ul><li>Added a map editor</li><li><del>Added controller support (only tested on Desktop so far, disabled on HTML5 but should work for Android)</del><strong> Removed.</strong></li><li>New settings menu</li><li>New mode: <em>freebuild</em>. Control the waves just like in Sandbox, but without infinite resources.</li><li>New optimized rendering system, which should increase FPS significantly for weaker devices</li><li>Fixed obscure bugs with items not being transported to the right blocks</li><li>Shield performance improvements</li><li>Many various bugfixes</li></ul>",
+  "published_at": "2017-12-24 19:29:20",
+  "title": "3.2",
+  "uploads": [
+    {
+      "date": "24 December 2017 @ 19:15",
+      "name": "Mindustry-mac-3.2.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "49 MB"
+    },
+    {
+      "date": "24 December 2017 @ 19:15",
+      "name": "Mindustry-windows64-3.2.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "48 MB"
+    },
+    {
+      "date": "24 December 2017 @ 19:15",
+      "name": "Mindustry-linux64-3.2.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "50 MB"
+    },
+    {
+      "date": "24 December 2017 @ 19:22",
+      "name": "Mindustry-android-3.2.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "19 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/19117/32"
+}

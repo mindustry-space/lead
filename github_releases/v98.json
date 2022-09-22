@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v98/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 15733477,
+      "name": "Mindustry.jar",
+      "size": 43519129
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v98/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 15733478,
+      "name": "server-release.jar",
+      "size": 4183961
+    }
+  ],
+  "body": "Many bugfixes, including:\n\n- Schematics not working in multiplayer\n- Build pausing not working in multiplayer\n- Lots of interface fixes\n- Modding fixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v98",
+  "id": 20986800,
+  "name": "5.0 Build 98",
+  "prerelease": false,
+  "published_at": "2019-10-25T17:44:19Z",
+  "tag_name": "v98",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v98",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v98"
+}

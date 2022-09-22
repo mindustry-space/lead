@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Many various bugfixes, majority of known crashes fixed\r\n- Notable remaining bugs: Multiplayer is still very unstable.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v42",
+  "id": 11763227,
+  "name": "4.0 Build 42 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-07-03T17:20:31Z",
+  "tag_name": "v42",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v42",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v42"
+}

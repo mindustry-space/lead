@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v66/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11656464,
+      "name": "desktop-release.jar",
+      "size": 21336996
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v66/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 11656467,
+      "name": "server-release.jar",
+      "size": 3543776
+    }
+  ],
+  "body": "- Fixed craters map not having any ores\r\n- Fixed crash on setting wave spacing to 0\r\n- Fixed unit selection in wave editor going off-screen\r\n- Fixed editor crash\r\n- Allowed placing of blocks in shallow water\r\n- Allowed loading of maps with spaces by using underscores [Server]\r\n- Increased large battery capacity, solar panel output\r\n- Tougher default waves for custom maps\r\n- Removed bridge autolinking to bridges that were not placed last\r\n- Reduced drone factory silicon cost\r\n- Slightly smaller desktop builds",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v66",
+  "id": 16261569,
+  "name": "v4 Build 66 - Beta",
+  "prerelease": false,
+  "published_at": "2019-03-21T15:29:41Z",
+  "tag_name": "v66",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v66",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v66"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v97/Mindustry.jar",
+      "content_type": "application/java-archive",
+      "id": 15714639,
+      "name": "Mindustry.jar",
+      "size": 43518585
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v97/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 15714641,
+      "name": "server-release.jar",
+      "size": 4183498
+    }
+  ],
+  "body": "- Added inverted sorters: flip item output directions\n- Added JSON config-based modding [Alpha, may be very unstable]\n- Added block schematics: save and share your designs [Desktop]\n- Added placed block rotation: Hold [R] and use the scrollwheel to rotate a block [Desktop]\n- Added saving of blocks broken after enemy attacks\n- Added phantom drone rebuilding of broken blocks\n- Added radial tech tree layout\n- Added autotiling for blocks in build queue and selection\n- Added zooming and panning in tech tree/campaign select\n- Added username labels to minimap [Contributed by Maxattax97]\n- Added targeting priority for turrets/units: when targeting blocks, turrets will be attacked first\n- Added new loadout select dialog\n- Added link to Mindustry subreddit\n- Added banning of blocks in ruleset\n- Added internal plugin methods for switching servers and updating game rules\n- Made incend bullets set enemies on fire instead of just setting everything on fire\n- Made build requests be replaceable in build queue [Contributed by @clfer]\n- New building system for desktop; supports editing the queue and pausing building\n- Fixed some bugs with mobile input\n- Fixed input not working with different keyboard locales\n- Improved zone objectives: finishing attack maps unlocks next zones/configuration, waves no longer needed\n- Increased minimum FPS to 15 to prevent game freeze\n- Changed 'plugins' to 'mods': function the same way, but with more capabilities\n- Tutorial text tweaks\n- Disabled player-player and player-drone collisions\n- Fixed crashing when launching in offline mode [Steam]\n- Lots of other various bugfixes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v97",
+  "id": 20965737,
+  "name": "5.0 Build 97",
+  "prerelease": false,
+  "published_at": "2019-10-25T00:19:45Z",
+  "tag_name": "v97",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v97",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v97"
+}

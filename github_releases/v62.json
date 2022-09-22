@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v62/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9904581,
+      "name": "desktop-release.jar",
+      "size": 18222239
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v62/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 9904585,
+      "name": "server-release.jar",
+      "size": 8984139
+    }
+  ],
+  "body": "- Fixed crash when pick tool was used out of map bounds\r\n- Fixed various other crashes\r\n- Fixed swarmer turret shooting ridiculously quickly\r\n- Fixed 'player disconnected' messages after PvP game was restarted\r\n- Fixed random maps not having any cliffs\r\n- Fixed mend/overdrive projectors not displaying their real range\r\n- Fixed chained storage blocks being extremely flammable/explosive when many flammable/explosive items were stored in the chain\r\n- Added new UI style\r\n- Added team display in player menu for PvP\r\n- Added sorter item 'memory'\r\n- Added list of contributors to credits\r\n- Added key to take screenshot of full map [PC]\r\n- Added build revision field for hotfixes\r\n- Changed drones to use healing bullets instead of beams\r\n- Buffed thermal generator\r\n- Buffed melter\r\n- Improved panning by allowing it to go over UI elements [Mobile]\r\n- Removed default 'player' name",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v62",
+  "id": 14244660,
+  "name": "v4 Build 62 - Alpha",
+  "prerelease": false,
+  "published_at": "2018-11-28T23:43:20Z",
+  "tag_name": "v62",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v62",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v62"
+}

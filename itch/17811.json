@@ -1,0 +1,32 @@
+{
+  "body": "<p>This beta should be considered feature complete; if no major bugs are found, it&apos;ll be released in full in a few days.</p>\r\n<p>It is advised to take the new tutorial, as&#xa0;some controls and mechanics have changed.</p>\r\n<p>Changelog:</p>\r\n<ul><li>New tutorial that covers power blocks</li><li>Tweaked AI to be more smart about bad paths</li><li>New layering system for blocks; no more glitchy lasers</li><li>New SFX for some turrets</li><li>Optimization, especially for large bases with many blocks</li><li>Added boosting with [shift]</li><li>Changed rotation controls: use the scrollwheel to rotate, and ctrl-scrollwheel to zoom.</li></ul>",
+  "published_at": "2017-12-11 01:53:06",
+  "title": "3.0 Beta 2",
+  "uploads": [
+    {
+      "date": "11 December 2017 @ 01:40",
+      "name": "Mindustry-beta2-linux64.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "11 December 2017 @ 01:40",
+      "name": "Mindustry-beta2-mac.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "11 December 2017 @ 01:40",
+      "name": "Mindustry-beta2-windows64.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "58 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/17811/30-beta-2"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v75/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12390512,
+      "name": "desktop-release.jar",
+      "size": 24761547
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v75/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12390513,
+      "name": "server-release.jar",
+      "size": 3596457
+    }
+  ],
+  "body": "- Fixed enemies drowning in tar fields\r\n- Fixed chained junctions clogging\r\n- Fixed blocks without satisfied requirements incorrectly displaying at full power\r\n- Fixed batteries charging uniformly regardless of how many were in a network\r\n- Fixed liquid source multiplayer crash\r\n- Removed buffers from turrets and similar blocks, switched to direct consumption\r\n- Removed maximum enemy limit for some spawns in default waves, making them scale better\r\n- Made mass drivers draw power continuously\r\n- Added system for communicating commands to local server by socket \r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v75",
+  "id": 17153213,
+  "name": "v4 Build 75 - Beta",
+  "prerelease": false,
+  "published_at": "2019-05-05T02:39:32Z",
+  "tag_name": "v75",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v75",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v75"
+}

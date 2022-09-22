@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>Added 2 new materials</li><li>Added 1 new ore block (Titanium)</li><li>Added 4 new turrets</li><li>Added 2 new player weapons</li><li>Added liquids, conduits and pumps</li><li>Added extractor blocks</li><li>Added 3 new armor blocks</li><li>Added 3 new enemies</li><li>Added 4 different enemy tiers</li><li>Decreased enemies per wave, but increased health and damage per enemy</li><li>Added multiple placement modes (on Android)</li><li>Increased drill speed, but increased cost (this should help prevent item lag, as it is now harder to spam drills)</li><li>Halved cost of most blocks</li><li>Fixed crash caused by junction block</li><li>Changed block selection UI</li><li>Changed title screen and logo</li><li>Many UI tweaks</li><li>Added pause toggle (space, by default)</li><li>Allowed player to place blocks while paused</li><li>Removed zoom buttons, scrolling is now done with the scrollwheel</li><li>Changed terrible weapon sprites</li><li>Changed weapon selection to only use number keys or clicks</li><li>Made some blocks replaceable (e.g. steel walls can replace stone walls)</li><li>Fixed turret prediction being inaccurate</li><li>Changed turret names</li><li>Many, many other bugfixes and tweaks</li></ul>\r\n<p>As always, please report any bugs you find! This release should be more unstable than usual, due to the amount of content added.</p>",
+  "published_at": "2017-09-27 01:39:05",
+  "title": "2.0",
+  "uploads": [
+    {
+      "date": "27 September 2017 @ 01:16",
+      "name": "Mindustry-android-2.0.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    },
+    {
+      "date": "27 September 2017 @ 01:16",
+      "name": "Mindustry-mac-2.0.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "27 September 2017 @ 01:16",
+      "name": "Mindustry-linux64-2.0.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "27 September 2017 @ 01:16",
+      "name": "Mindustry-windows64-2.0.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/10985/20"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v88/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14418678,
+      "name": "desktop-release.jar",
+      "size": 43244766
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v88/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14418679,
+      "name": "server-release.jar",
+      "size": 3933464
+    }
+  ],
+  "body": "This is the first release of version 4.0; an update that has been in the works for over a year.\r\n\r\nExtensive changes have been made since 3.5, including new gamemodes, customizable rules, a new editor, new graphics, new enemies, unit production, new progression, a campaign, and more. Scroll through the release changelog over the past year to see specifics.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v88",
+  "id": 19345956,
+  "name": "4.0 Build 88",
+  "prerelease": false,
+  "published_at": "2019-08-16T18:31:47Z",
+  "tag_name": "v88",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v88",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v88"
+}

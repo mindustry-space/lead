@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v87/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14405376,
+      "name": "desktop-release.jar",
+      "size": 42569697
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v87/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 14405377,
+      "name": "server-release.jar",
+      "size": 4244379
+    }
+  ],
+  "body": "*It approaches.*\r\n\r\n- Added ambient machine sounds\r\n- Various bugfixes\r\n- Another attempt to fix win32 builds",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v87",
+  "id": 19327278,
+  "name": "4.0 Build 87 - RC 3",
+  "prerelease": false,
+  "published_at": "2019-08-16T01:07:19Z",
+  "tag_name": "v87",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v87",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v87"
+}

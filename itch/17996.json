@@ -1,0 +1,32 @@
+{
+  "body": "<p>Changelog:</p>\r\n<ul><li>4 new enemies with various abilities</li><li>2 new multi-block turrets</li><li>New resource: uranium. Used as ammo for the new turrets, and as a source of power</li><li>New power system: generate and transmit power using lasers. Take the new tutorial to learn how to use it.</li><li>New power generators that use uranium, coal, lava or oil to generate power</li><li>11 new maps, with 2 new liquids and many new block types. Every old map except <em>maze</em> has been removed.</li><li>Completely new wave patterns, with enemies of specific types at specific waves instead of a mix of all enemies every wave.</li><li>New 2x2 defense blocks for steel, titanium and dirium</li><li>New crafting blocks for producing coal and steel</li><li>New transportation blocks: teleporters, sorters, tunnels, liquid junctions, upgraded conveyors</li><li>New defense blocks: shields and shielded walls, both of which use power</li><li>New upgraded pump</li><li>Door blocks, in 1x1 and 2x2 variants</li><li>Repair turrets now use power, as they were too easy to spam before</li><li>New extended description and stats menu for all blocks</li><li>More save slots</li><li>Control change: ctrl-scrollwheel to zoom, scrollwheel to rotate blocks (R and E can still be used to rotate too)</li><li>New UI for many things</li><li>New SFX</li><li>New visual effects for turrets, such as railguns</li><li>Noticeable performance improvements for large bases, especially on mobile (and most likely, HTML5)</li><li>New smarter AI that may avoid small passages and will get stuck on blocks less often</li><li>New enemy flocking behavior</li><li>Many, many other fixes and additions</li></ul>\r\n<p>Next updates will focus on usability and the possibility of multiplayer, instead of content. I&apos;ll probably be taking a small break from development now.</p>",
+  "published_at": "2017-12-12 19:26:52",
+  "title": "3.0",
+  "uploads": [
+    {
+      "date": "12 December 2017 @ 21:04",
+      "name": "Mindustry-3.0-windows64.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "58 MB"
+    },
+    {
+      "date": "12 December 2017 @ 21:04",
+      "name": "Mindustry-3.0-mac.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "12 December 2017 @ 21:04",
+      "name": "Mindustry-3.0-linux64.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "60 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/17996/30"
+}

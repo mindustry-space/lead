@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v118/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28884697,
+      "name": "Mindustry.jar",
+      "size": 72251847
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v118/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28884701,
+      "name": "server-release.jar",
+      "size": 9068452
+    }
+  ],
+  "body": "This should be one of the last beta builds. In a couple of days, I will make a final release with the most recent translation bundles & bugfixes.\r\n\r\n- Fixed infinitely looping Vela laser sound\r\n- Fixed fire not burning on tar\r\n- Disabled fire for items with flammability <= 1 (this means coal bombing no longer causes fire)\r\n- Disabled unit explosion team damage\r\n- Disabled core unit crash damage\r\n- Disabled automatic linking of adjacent bridges\r\n- Various tweaks to unit stats\r\n\r\nCampaign:\r\n- Fixed Overgrowth not spawning ground units\r\n- Fixed Salt Flats having deadlocked requirements\r\n- Fixed Fungal Pass silicon going nowhere\r\n- Fixed Nuclear Production Complex and Desolate Rift being barren of decoration\r\n- Fixed mining units not counting towards sector production\r\n- Fixed mining units not mining after core is filled\r\n- Fixed withdrawing/unloading from vaults not counting as negative production\r\n- Added Guardian waves to some sectors that didn't have them\r\n- Decreased base invasion chance, but made damage calculation more harsh\r\n- General balancing of preset sectors\r\n- Added prompt for loading v5 research data\r\n- Made all broken enemy broken blocks re-appear when returning to unsuccessful sectors\r\n- Many small tweaks and balance changes",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v118",
+  "id": 34520546,
+  "name": "6.0 Build 118 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-27T23:22:08Z",
+  "tag_name": "v118",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v118",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v118"
+}

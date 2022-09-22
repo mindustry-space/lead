@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "(No, this is not 4.0, it's just *build* 40.)\r\n\r\nThis is a small update, with only a few minor bugfixes. The main feature is compatibility with the new iOS version.\r\n\r\n- Fixed most formatted numbers being missing from Spanish translation\r\n- Fixed wave timer being extremely slow at high TPS with multithreading enabled\r\n- Fixed scrolling on player menu causing the whole screen to pan (Mobile)\r\n- Fixed application storing data in wrong directory (Mac)\r\n- Updated Polish translation\r\n- Updated Russian translation with new text (Thanks to @Prosta4okua)\r\n- Replaced old soundtrack with new license-free music",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v40",
+  "id": 11159823,
+  "name": "3.5 Build 40",
+  "prerelease": false,
+  "published_at": "2018-05-24T15:10:46Z",
+  "tag_name": "v40",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v40",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v40"
+}

@@ -1,0 +1,7 @@
+{
+  "body": "<p>This update gives the web version many much-needed features from the PC and android versions, as well as everything in 3.3.</p>\r\n<ul><li>Added all features from 3.3 Beta 8</li><li>Implemented saving and loading games</li><li><del>Implemented multiplayer: connect to games hosted by both PC and Android players. Hosting the game on web is unsupported due to the way websockets work.</del> <em>EDIT: I&apos;ve run into problems with SSL certificates, so multiplayer will be disabled until further notice.</em></li><li>Implemented language selection (work in progress)</li></ul>",
+  "published_at": "2018-01-19 18:19:47",
+  "title": "3.3 Beta (HTML5)",
+  "uploads": [],
+  "url": "https://anuke.itch.io/mindustry/devlog/21430/33-beta-html5"
+}

@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Many various crashes fixed\r\n- Fixed cultivator not functioning\r\n- Fixed conveyor sucking non-existent items out of player inventory\r\n- Fixed save corruptions on dedicated server\r\n- Fixed oil extractor not working on dedicated server\r\n- Fixed some typos\r\n- Fixed hidden gamemodes showing up in info box\r\n- Fixed dedicated server freeze on gameover\r\n- Decreased difficulty for base missions\r\n- Increased biomatter compressor output\r\n- Improved kick/disconnect messages\r\n- Removed useless command and spawner blocks in waves gamemode\r\n- Removed pointless enemy vault structures\r\n- Added thermal generator stats, increased power output\r\n- Added debug mode commands for dedicated server\r\n- Added automatic sector progression to dedicated server\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v49",
+  "id": 12320875,
+  "name": "4.0 Build 49 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-08-09T01:20:50Z",
+  "tag_name": "v49",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v49",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v49"
+}

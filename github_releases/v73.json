@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v73/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12315668,
+      "name": "desktop-release.jar",
+      "size": 24783262
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v73/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12315670,
+      "name": "server-release.jar",
+      "size": 3594906
+    }
+  ],
+  "body": "- Fixed thorium reactors not exploding properly\r\n- Fixed impact reactor not requiring blast compound\r\n- Fixed one case where enemies would not spawn in sectors\r\n- Fixed multiple generators not working properly\r\n- Fixed meltdown not being able to fire with cryofluid\r\n- Fixed distortion on many sprites, most notably ores and incinerator blocks\r\n- Fixed core inventory persisting throughout worlds\r\n- Fixed drones being useless\r\n- Fixed broken minimap panning on mobile\r\n- Fixed ores being place-able on liquids when generating\r\n- Fixed settings menu being nearly unusable due to empty space [Mobile]\r\n- Reverted unit avoidance code, units will now be laggy again [Fixes trapped units]\r\n- Made fortress units no longer camp outside walls\r\n- Made starter mech alpha for mobile and desktop\r\n- Made mechs be able to fly over environment walls\r\n- Added block damage indicators, removed smoke\r\n- Added more zones [Maps made by Dexapnow-- largely untested!]\r\n- Added a procedurally generated zone\r\n- Added coal centrifuge, converts oil -> coal\r\n- Added in-game chat overlay, typing indicator\r\n- Added minimap open key [Desktop]\r\n- Added new environmental blocks\r\n- Moved loadout configuration into separate dialog\r\n- Power generator balancing\r\n- Improved custom game options, added more configuration [Made by Natchuz]\r\n- Improved Discord info\r\n- Improved usability of tech tree: descriptions will now pan to edge of screen, deselect on tap [Mobile]\r\n- Updated many different zone maps\r\n- Almost too many language updates\r\n- Experimental decrease of snapshot frequency\r\n- Experimental rewrite of mass drivers\r\n- Experimental rewrite of respawning code\r\n- Experimental changes of building sync code",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v73",
+  "id": 17073161,
+  "name": "v4 Build 73 - Beta",
+  "prerelease": false,
+  "published_at": "2019-04-30T17:33:07Z",
+  "tag_name": "v73",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v73",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v73"
+}

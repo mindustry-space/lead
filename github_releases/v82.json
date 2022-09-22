@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v82/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13583517,
+      "name": "desktop-release.jar",
+      "size": 21627234
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v82/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 13583518,
+      "name": "server-release.jar",
+      "size": 3725265
+    }
+  ],
+  "body": "- Fixed crash on startup caused by fullscreen/borderless windowed modes [Desktop]\r\n- Fixed some other crashes\r\n- Fixed saves from older versions not loading correctly\r\n- Fixed FPS limit not functioning correctly \r\n- Fixed certain filters not previewing correctly [Mobile]\r\n- Fixed fill tool being able to paint over multiblocks\r\n- Fixed a crash on devices with API level <17 [Mobile]\r\n- Removed buggy in-game changelog, moved to a link\r\n- Balancing\r\n- Added indicator for mode-specific buildings to build menu\r\n- Added damage stats to power-based turrets\r\n- New dark-themed UI style\r\n- New main menu background and style\r\n- More sprites cleaned up",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v82",
+  "id": 18453324,
+  "name": "v4 Build 82 - Beta",
+  "prerelease": false,
+  "published_at": "2019-07-06T23:27:29Z",
+  "tag_name": "v82",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v82",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v82"
+}

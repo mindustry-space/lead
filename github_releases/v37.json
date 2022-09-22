@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed tunnel conveyors accepting items from any direction\r\n- Fixed tunnel conveyors making items disappear\r\n- Added buffer display bar to tunnels\r\n- Removed nothing",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v37",
+  "id": 10357906,
+  "name": "3.5 Build 37",
+  "prerelease": false,
+  "published_at": "2018-04-02T19:20:33Z",
+  "tag_name": "v37",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v37",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v37"
+}

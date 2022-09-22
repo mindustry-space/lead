@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.1/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29353173,
+      "name": "Mindustry.jar",
+      "size": 72438523
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v121.1/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 29353174,
+      "name": "server-release.jar",
+      "size": 9057609
+    }
+  ],
+  "body": "- Slightly increased Lancer build cost\n- Double-tapping now enters a campaign map (Contributed by @joshuaptfan)\n- Minor logic memory optimizations - block/sensor constants are no longer stored in every processor\n- Doubled surge smelter item capacity\n- Made Fungal Pass slightly easier\n- Fixed some achievements not working [Steam]\n- Fixed some rare crashes\n- Fixed unit spawn shockwave appearing too late",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v121.1",
+  "id": 35052533,
+  "name": "6.0 Build 121.1 ",
+  "prerelease": false,
+  "published_at": "2020-12-09T16:15:17Z",
+  "tag_name": "v121.1",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v121.1",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v121.1"
+}

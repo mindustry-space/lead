@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 28989136,
+      "name": "Mindustry.jar",
+      "size": 72247748
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v120/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 28989143,
+      "name": "server-release.jar",
+      "size": 9045900
+    }
+  ],
+  "body": "After more than 9 months of development, 6.0 is finally here. There have been far too many changes to reasonably list here, so I'll go over the highlights.\n\nUnits:\n\n- The unit system has been completely reworked\n- All unit sprites have been re-drawn and cleaned up\n- Many new unit types have been added\n- Player-specific pads and unit-specific factories have been removed\n- All units can now be created, commanded and controlled by players\n- 3 different unit factories: ground, air, and naval\n- Each unit factory can produce multiple types of units\n- Units can be moved into special tiered Reconstructor blocks to upgrade them\n- 6 unit branches: insect units, ground attack units, ground support units, air attack units, air support units, naval attack units\n- Each branch has 5 tiers, making 5*6 = 30 buildable units\n- Each core block has a special player-controlled flying unit type associated with it, resulting in a grand total of 33 total units\n\n\nCampaign:\n\n- Complete rework of the 5.0 campaign system\n- Everything takes place on a planet, where each hexagonal/pentagonal sector is a separate map that can be visited\n- 260+ procedural sectors, with 16 special \"landing zone\" sectors\n- Procedural sectors are optional for campaign completion, but landing zones are not\n- Most sectors have a certain number of waves that need to be survived in order to capture them\n- Other sectors may have enemy bases on them, which need to be destroyed for capture\n- Each sector will produce resources in the background even when you play in other sectors\n- Resources can be moved between sectors with Launch Pads\n- Sectors near enemy bases will be periodically invaded unless the enemy base is destroyed\n- \"Global Resources\" no longer exist - all research costs are taken directly from your pooled core resources\n- More planets will be added in the future\n\n\nNew Blocks & Mechanics:\n\n- Added upgraded 3x3 versions of the Silicon Smelter, Separator and Overdrive Projector\n- Cores can now be upgraded to higher tiers\n- Added \"Segment\" point defense turret - targets and destroys incoming bullets\n- Added \"Parallax\" electric anti-air turret - pulls in enemy aircraft with a tractor beam\n- Added \"Foreshadow\" long-range railgun turret, for taking down bosses and armored units\n- Added \"Tsunami\" liquid turret - acts as an upgraded version of the Wave\n- Added Plastanium conveyors - stack items together, move them with high throughput\n- Added mud & dirt decoration blocks\n- Added slag liquid floor, can be pumped to obtain slag\n- Added space floor\n- Significant amounts of block balancing, bugfixes and tweaks\n\n\nLogic System:\n\n- Added Processor blocks that execute commands in a loop\n- Processors use a very simple assembly-like language\n- Code can be written in-game with a visual editor, or imported from text files\n- Processors are capable of performing complex tasks, such as controlling units, reading block state, disabling/enabling buildings and outputting text to message blocks\n- Added Display blocks - can be used for displaying vector images from processors\n- Added Memory blocks - can be used to store numbers for internal processor use\n- Added Button block - can be linked and used as an input devices for processors\n- Examples of logic applications include automatic heat-sensing reactor controllers, unit transport systems, custom unit AI, visual power level displays, various types of games and more\n\n\nMaps:\n\n- Added 4 new maps for custom games\n- Added 5 types of weather: rain, fog, snow, sandstorm and sporestorm\n- Each type of weather has a certain effect on blocks or units\n- Added attack AI rule: when enabled, enemy cores will spawn units that build basic defense schematics\n- Added map rules for fire, schematic use, enemy light visibility, unit ammo mechanics, explosion damage and more\n- Added new filters in editor, to aid with procedural map generation\n- Added new editor filter options\n\n\nGeneral Changes:\n\n- Added more music\n- Added more sound effects\n- Added community server groups\n- Improved most sprites and icons\n- Many small visual improvements\n- Added button to pan camera around map \n- New physics system\n- Made schematics save power node connections & message contents when copying\n- Many, many small QoL changes\n- A lot more stuff that I've probably missed",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v120",
+  "id": 34635478,
+  "name": "6.0 Build 120 ",
+  "prerelease": false,
+  "published_at": "2020-12-01T13:47:13Z",
+  "tag_name": "v120",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v120",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v120"
+}

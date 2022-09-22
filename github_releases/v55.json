@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Many crashes fixed\r\n- Fixed common crash when hosting servers [Mobile]\r\n- Fixed bridges accepting infinite items\r\n- Fixed mass drivers not dumping items after save load\r\n- Fixed issues with font line height\r\n- Fixed javelin infinitely circling reconstructors [Mobile]\r\n- Fixed drones infinitely circling items at high FPS\r\n- Fixed trails not rendering properly at high FPS\r\n- Fixed reconstructors not being accessible at low FPS\r\n- Fixed alloy smelter typo\r\n- Fixed glitchy main menu shader [Mobile]\r\n- Fixed drone getting stuck after picking up random items\r\n- Fixed nuclear reactors sometimes failing to explode at full heat\r\n- Fixed language list not being sorted alphabetically\r\n- Fixed some obscure bugs with Turkish locale\r\n- Fixed enemy base sectors not loading [Web]\r\n- Added player chat logging [Dedicated Server]\r\n- Added date to changelog\r\n- Increased large power node transfer speed\r\n- Increased hail turret range, decreased reload and inaccuracy\r\n- Decreased tau mech damage, regeneration and armor",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v55",
+  "id": 12709315,
+  "name": "4.0 Build 55 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-09-03T21:42:46Z",
+  "tag_name": "v55",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v55",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v55"
+}

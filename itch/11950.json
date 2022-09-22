@@ -1,0 +1,40 @@
+{
+  "body": "<ul><li>Fixed crash related to block rendering</li><li>Fixed error when saving a map that had empty conduits</li><li>Fixed bug where pumps received liquid regardless of whether they were on water</li><li>Re-enabled chaining of junctions</li><li>Rounded camera position relative to player; turrets and items no longer jitter when moving</li><li>Other minor bugfixes</li></ul>",
+  "published_at": "2017-10-08 17:07:31",
+  "title": "2.2",
+  "uploads": [
+    {
+      "date": "08 October 2017 @ 16:48",
+      "name": "Mindustry-android-2.2.apk",
+      "platforms": [
+        "Android"
+      ],
+      "size": "23 MB"
+    },
+    {
+      "date": "08 October 2017 @ 16:48",
+      "name": "Mindustry-mac-2.2.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "08 October 2017 @ 16:48",
+      "name": "Mindustry-linux64-2.2.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "52 MB"
+    },
+    {
+      "date": "08 October 2017 @ 16:48",
+      "name": "Mindustry-windows64-2.2.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "50 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/11950/22"
+}

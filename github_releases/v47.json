@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "[Warning: Due to many internal changes, this version will break all v46 saves.]\r\n\r\n- Fixed many various crashes on all platforms\r\n- Fixed web version being unplayable\r\n- Fixed web version not being able to import maps\r\n- Fixed not being able to import saves\r\n- Fixed infinite building when missing resources\r\n- Fixed infinite red square of death appearing during deconstruction\r\n- Fixed overflow gate description not being displayed\r\n- Fixed cryofluid mixer not working\r\n- Fixed drone factories spawning duplicates on save reload\r\n- Fixed being able to use mechs [Mobile]\r\n- Fixed ships flying off-screen to the right at low FPS [Mobile]\r\n- Fixed file chooser being extremely wide [Mobile]\r\n- Fixed app not respecting screen rotation settings [Mobile]\r\n- Fixed mechs being extremely fast with vSync disable [Desktop]\r\n- Fixed power nodes not working sometimes when at low FPS\r\n- Fixed players being able to hit their own blocks in multiplayer\r\n- Removed routers [may be reverted depending on feedback]\r\n- Made splitters 3-way and no longer chain-able at all\r\n- Replaced multiplexer with distributor, a 2x2 splitter variant\r\n- Various optimizations\r\n- Doubled vault storage capacity\r\n- Added new block status system; displays required inputs on block when tapped/hovered\r\n- Added shadows under flying units\r\n- Added conduit autotiling\r\n- Added ability for starter ship to mine ores by tapping them [Mobile]\r\n- Added system to automatically load local language bundles to test translations [Desktop]\r\n",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v47",
+  "id": 11905751,
+  "name": "4.0 Build 47 - Unstable Alpha",
+  "prerelease": false,
+  "published_at": "2018-07-12T22:17:46Z",
+  "tag_name": "v47",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v47",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v47"
+}

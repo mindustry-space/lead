@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "- Fixed unit pads not appearing in server PvP gamemode\r\n- Fixed blocks not being deselected after quitting game\r\n- Cleaned up enemy base wall generation",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v56",
+  "id": 12710726,
+  "name": "4.0 Build 56 (Hotfix)",
+  "prerelease": false,
+  "published_at": "2018-09-04T02:17:30Z",
+  "tag_name": "v56",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v56",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v56"
+}

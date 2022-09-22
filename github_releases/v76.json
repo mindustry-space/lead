@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v76/desktop-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12396226,
+      "name": "desktop-release.jar",
+      "size": 24762967
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v76/server-release.jar",
+      "content_type": "application/java-archive",
+      "id": 12396227,
+      "name": "server-release.jar",
+      "size": 3597877
+    }
+  ],
+  "body": "- Fixed saves with unit factories not loading correctly after saving in build 75 (These will remain broken, but new saves will work)\r\n- Fixed turrets displaying power at 0 even when power sources were connected\r\n- Fixed turrets not firing with battery power available\r\n- Fixed units going into drownable liquids too readily",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v76",
+  "id": 17157684,
+  "name": "v4 Build 76 - Beta - Hotfix",
+  "prerelease": false,
+  "published_at": "2019-05-05T16:38:22Z",
+  "tag_name": "v76",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v76",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v76"
+}

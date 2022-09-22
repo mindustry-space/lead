@@ -1,0 +1,32 @@
+{
+  "body": "<p><em>Disclaimer: This beta is for PC only! The web client has not been updated, as this version may be unstable and is incomplete!<br></em></p>\r\n<p>As usual, this release is incompatible with older saves. <em>(In the near future -- 4.0+, I plan to add an automatic save converter between versions)</em></p>\r\n<p>Changelog:</p>\r\n<ul><li>Added a power system, based on lasers</li><li>Added a whole lot of blocks, most notably: tunnel conveyors, multi-block turrets, teleporters, and blocks for generating and transporting power</li><li>Added some new enemies (EMPers, large &apos;Titan&apos; enemies, and others)</li><li>New enemy AI</li><li>Added 11 new maps, keeping the old &quot;maze&quot; map</li><li>Added a sandbox mode</li><li>Many other changes. Full patchnotes will be available in the final release of 3.0.</li></ul>\r\n<p>This version is currently missing a new tutorial for the power system, besides other things. Please report any bugs/issues you find!</p>",
+  "published_at": "2017-12-07 04:29:05",
+  "title": "3.0 Unstable Beta 1",
+  "uploads": [
+    {
+      "date": "07 December 2017 @ 04:06",
+      "name": "Mindustry-mac-3.0-beta1.zip",
+      "platforms": [
+        "macOS"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "07 December 2017 @ 04:06",
+      "name": "Mindustry-linux64-3.0-beta1.zip",
+      "platforms": [
+        "Linux"
+      ],
+      "size": "60 MB"
+    },
+    {
+      "date": "07 December 2017 @ 04:06",
+      "name": "Mindustry-windows64-3.0-beta1.zip",
+      "platforms": [
+        "Windows"
+      ],
+      "size": "58 MB"
+    }
+  ],
+  "url": "https://anuke.itch.io/mindustry/devlog/17449/30-unstable-beta-1"
+}

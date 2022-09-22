@@ -1,0 +1,12 @@
+{
+  "assets": [],
+  "body": "This release addresses some serious recently-discovered issues with multiplayer and controllers. Looks like Build 38 won't be the last release before 4.0 after all.\r\n\r\n- Fixed bug where some devices would instantly disconnect upon connecting to a server with high enemy count\r\n- Fixed bug where players at low FPS would violently jump around the screen in multiplayer\r\n- Fixed bug where wave would start before the right stage in tutorial\r\n- Fixed bug where liquid junctions randomly stopped working, causing desyncs in multiplayer\r\n- Fixed text not wrapping in menu/level select with specific languages\r\n- Fixed minor visual bug with placement preview\r\n- Fixed changelog not loading on some old Android devices (Android)\r\n- Fixed player not being able to aim with a controller (Desktop)\r\n- Fixed server crashing due to missing version file (Server)\r\n- Updated translation files for many languages\r\n- Added Italian translation\r\n- Added new Spanish translation\r\n- Added button to toggle in-game menus ('C' by default) (Desktop)",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v39",
+  "id": 10867026,
+  "name": "3.5 Build 39",
+  "prerelease": false,
+  "published_at": "2018-05-05T18:45:19Z",
+  "tag_name": "v39",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v39",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v39"
+}

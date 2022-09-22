@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v115/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28526067,
+      "name": "Mindustry.jar",
+      "size": 72115395
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v115/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 28526071,
+      "name": "server-release.jar",
+      "size": 9025896
+    }
+  ],
+  "body": "Yes, it's another one. Get ready for more rapid-fire releases.\r\n\r\n- Fixed sound not working [Android]\r\n- Fixed sound being muffled at start of game\r\n- Fixed continuous lasers setting shooters on fire\r\n- Fixed deconstruction area not being queued [Mobile]\r\n- Limited logic symbols to 40 characters\r\n- Switched to ALSA sound backend [Linux]\r\n- Added \"Launching From\" info to sector launch dialog\r\n- Added final campaign sector (untested!)\r\n- Added special block for launching between planets in future versions - this is simply a final goal for the campaign, and currently doesn't do anything interesting when completed",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v115",
+  "id": 34184053,
+  "name": "6.0 Build 115 - Beta",
+  "prerelease": true,
+  "published_at": "2020-11-19T16:20:38Z",
+  "tag_name": "v115",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v115",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v115"
+}

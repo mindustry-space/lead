@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v136/Mindustry.jar",
+      "content_type": "application/x-java-archive",
+      "id": 71769497,
+      "name": "Mindustry.jar",
+      "size": 70458429
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v136/server-release.jar",
+      "content_type": "application/x-java-archive",
+      "id": 71769511,
+      "name": "server-release.jar",
+      "size": 8804764
+    }
+  ],
+  "body": "The first Erekir build is finally here.\r\n\r\nThis is a massive update that brings with it an entirely new planet - Erekir - with a completely new tech tree. It would take too long to list all the changes and additions in this build, but here are the highlights:\r\n\r\n- A new, separate (but incomplete) campaign on the planet Erekir with its own mechanics\r\n- 100+ new blocks\r\n- New units\r\n- New items\r\n- New factories, turrets, distribution blocks, support structures, etc\r\n- New systems for \"scripting\" maps with logic blocks and objectives\r\n- A fog-of-war system, available as a custom map rule and enabled on Erekir\r\n- Countless tweaks, improvements and QoL changes\r\n- Countless bugfixes... and probably even more new bugs\r\n\r\nThe old command center and formation mechanics have been replaced with a 'RTS' command system. On desktop, holding [Shift] places you in 'Command Mode', which gives you RTS-like control over your units. Left-click to select groups of units, and right-click to order them to locations or targets.\r\n\r\nNote that there is currently no way to RTS-control builder/support units present on Serpulo, like Poly or Mega.\r\n\r\nPlease keep in mind that the Erekir campaign is still completely unfinished, and covers less than half of the tech tree. While Erekir is nearly completely in terms of block/unit content, most things not covered in the campaign are completely unbalanced, and should be treated as such! Damage/speed/reload/etc values of end-game content are essentially untested placeholder values.\r\n\r\nFor an introduction to the new systems introduced in this build, play the campaign first. The content added in this update has not been properly tested in custom maps or PvP yet.",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v136",
+  "id": 72147049,
+  "name": "7.0 Build 136 - Alpha",
+  "prerelease": true,
+  "published_at": "2022-07-16T14:29:07Z",
+  "tag_name": "v136",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v136",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v136"
+}
