@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v139/Mindustry.jar",
+      "content_type": "binary/octet-stream",
+      "id": 79973496,
+      "name": "Mindustry.jar",
+      "size": 71976520
+    },
+    {
+      "browser_download_url": "https://github.com/Anuken/Mindustry/releases/download/v139/server-release.jar",
+      "content_type": "binary/octet-stream",
+      "id": 79973500,
+      "name": "server-release.jar",
+      "size": 9204157
+    }
+  ],
+  "body": "v7 is now moving into the beta stage. The campaign system has been (mostly) stabilized, and all that remains in terms of content is approximately 5 more Erekir maps.\n\n- Fixed neoplasm being incinerated when contacting slag-bearing blocks\n- Fixed tank units not working correctly in mods\n- Fixed ground units moving too \"smoothly\" around corners\n- Misc balancing\n- Made Corvus and Vela no longer stop to shoot when commanded to a target\n- Made internal 'Canvas' block show up on Erekir - not particularly useful, but some may find it interesting\n- Made liquid tanks/containers solid and targetable by turrets again\n- Made mirror filter support increments smaller than 45 degrees (contributed by @hortiSquash)\n- Made neoplasm slightly more dangerous / spread faster\n- Removed the 'unit ammo' rule from custom game selection - this rule never worked properly on Erekir, is not balanced, and is seldom used\n- Improved planet selection UI\n- Improved item/block selection UI in certain blocks (contributed by @MEEPofFaith)\n- Added Heat Router block (Code contributed by @l-Luna, sprites by @kapzduke)\n- Added unit cost multiplier rule (Code partially contributed by @Ilya246)\n- Misc improvements to AI behavior in \"RTS\" maps\n- Mixed tech is now disabled as an option in new maps; the two tech trees are not meant to be used together - no, I will not be changing this back\n- API change: Made Separator class use a `drawer` field like GenericCrafter\n\n- Added several new maps [Campaign]\n- Added first-time planet/campaign selection dialog [Campaign]\n- Made 'global items' of Erekir and Serpulo separate [Campaign]\n- Removed Tantros from solar system, visually [Campaign]\n- Removed shield breaker block [Campaign]",
+  "html_url": "https://github.com/Anuken/Mindustry/releases/tag/v139",
+  "id": 79000151,
+  "name": "7.0 Build 139 - Beta",
+  "prerelease": true,
+  "published_at": "2022-10-04T21:41:47Z",
+  "tag_name": "v139",
+  "tarball_url": "https://api.github.com/repos/Anuken/Mindustry/tarball/v139",
+  "zipball_url": "https://api.github.com/repos/Anuken/Mindustry/zipball/v139"
+}
